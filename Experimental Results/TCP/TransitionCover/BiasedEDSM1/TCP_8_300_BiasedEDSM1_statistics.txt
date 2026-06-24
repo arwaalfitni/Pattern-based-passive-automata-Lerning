@@ -1,0 +1,33 @@
+File: TCP
+Seed: 7775
+Trails: 8
+Number of walks: 300
+Size of reference graph: 14 states
+Alphabet_size: 28 symbols
+
+Size of actual model(APTA): 7504
+Correct merges: 79
+Incorrect merges: 58
+Size of learned model (baised_EDSM): 29
+number of hard patterns: 28
+number of blocked potential-merges by hard patterns: 4856
+number of soft patterns: 80
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 2168.2133
+
+
+Evaluation Report:
+number of Positive traces: 1200
+number of Negative traces: 1200
+True Positive: 213
+True Negative: 1188
+False Positive: 12
+False Negative: 987
+Precision: 0.95
+Recall: 0.18
+Specificity: 0.99
+F-measure: 0.30
+Accuracy: 0.60
+BCR: 0.60
+Structural Difference: 0.4159090909090909
+Structural Difference: 0.4159090909090909

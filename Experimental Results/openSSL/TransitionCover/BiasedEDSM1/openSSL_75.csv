@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+openSSL_8_75,7727,8,75,6 states,20 symbols,679,53,4,15,18,1735,28,0,4.8606,300,300,54,271,29,246,0.65,0.18,0.9,0.3,0.5,0.5,0.3031522468142186,92.98,3043.86
+openSSL_9_75,8768,9,75,6 states,20 symbols,677,44,6,16,18,1911,25,0,4.3023,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3135531135531135,88.0,3822.0
+openSSL_3_75,6240,3,75,6 states,20 symbols,687,46,5,16,18,2126,29,0,5.064,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3116883116883117,90.2,4168.63
+openSSL_1_75,9292,1,75,6 states,20 symbols,695,46,4,16,18,1542,27,0,4.4532,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3135531135531135,92.0,3084.0
+openSSL_4_75,6940,4,75,6 states,20 symbols,693,52,5,14,18,2415,27,0,4.7316,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.1333333333333333,91.23,4236.84
+openSSL_6_75,9758,6,75,6 states,20 symbols,691,73,5,20,18,4658,28,0,39.0209,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.1705940108001963,93.59,5971.79
+openSSL_0_75,5989,0,75,6 states,20 symbols,693,44,5,16,18,2103,25,0,4.3602,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3154761904761904,89.8,4291.84
+openSSL_7_75,312,7,75,6 states,20 symbols,693,42,5,14,18,1709,26,0,3.7996,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3238095238095237,89.36,3636.17
+openSSL_5_75,3796,5,75,6 states,20 symbols,676,45,4,16,18,2070,30,0,5.245,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3154761904761904,91.84,4224.49
+openSSL_2_75,180,2,75,6 states,20 symbols,681,47,6,14,18,2450,26,0,4.3535,300,300,0,300,0,300,0.0,0.0,0.0,0.0,0.5,0.0,0.3116883116883117,88.68,4622.64

@@ -1,0 +1,27 @@
+File: bluetooth
+Seed: 4955
+Trails: 1
+Number of walks: 75
+Size of reference graph: 15 states
+Alphabet_size: 15 symbols
+
+Size of actual model(APTA): 2007
+Correct merges: 49
+Incorrect merges: 114
+Size of learned model (baised_EDSM): 1000
+number of hard patterns: 15
+number of blocked potential-merges by hard patterns: 9097
+number of soft patterns: 34
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 868.5101
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 30
+Number of SAT solver calls: 28
+Number of variables in the last SAT call: 93786
+Number of clauses in the last SAT call: 4824708
+SAT result: TIMEOUT
+Total time spent in SAT solver (seconds): 5501.5378
+Total time spent in SAT solver (seconds): 5501.5378
+

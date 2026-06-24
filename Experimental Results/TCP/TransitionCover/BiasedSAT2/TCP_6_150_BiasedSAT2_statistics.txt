@@ -1,0 +1,7 @@
+File: TCP
+Seed: 3237
+Trails: 6
+Number of walks: 150
+Size of reference graph: 14 states
+Alphabet_size: 28 symbols
+

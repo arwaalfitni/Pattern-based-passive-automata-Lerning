@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),Number of colors used (automata_size),Number of SAT solver calls,Number of variables in the last SAT call,Number of clauses in the last SAT call,SAT result,Total time spent in SAT solver (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random1_7_100,143,7,100,7 states,6 symbols,1110,7,0,531,6,5,0,0,15.8001,8,7,4640,87284,SAT,0.9599,400,400,400,397,3,0,0.99,1,0.99,1,1,1,0.952380952380952,100,71.43
+Random1_8_100,3548,8,100,7 states,6 symbols,1079,8,0,467,6,8,0,0,9.8903,8,7,4128,77364,SAT,0.8928,400,400,400,400,0,0,1,1,1,1,1,1,1,100,100
+Random1_3_100,3319,3,100,7 states,6 symbols,1100,9,0,517,6,0,0,0,14.3724,8,7,4528,85342,SAT,1.1287,400,400,400,400,0,0,1,1,1,1,1,1,1,100,0
+Random1_6_100,5325,6,100,7 states,6 symbols,1095,8,0,437,6,0,0,0,9.0348,8,7,3888,72654,SAT,1.2768,400,400,400,400,0,0,1,1,1,1,1,1,1,100,0
+Random1_4_100,9610,4,100,7 states,6 symbols,1088,8,0,492,6,0,0,0,13.3539,8,7,4328,81289,SAT,1.2441,400,400,400,400,0,0,1,1,1,1,1,1,1,100,0
+Random1_2_100,2941,2,100,7 states,6 symbols,1103,8,0,458,6,8,0,0,15.6877,8,7,4056,75951,SAT,1.0078,400,400,400,400,0,0,1,1,1,1,1,1,1,100,100
+Random1_9_100,5936,9,100,7 states,6 symbols,1100,7,0,528,6,14,0,0,9.2365,8,7,4616,86813,SAT,0.5391,400,400,400,400,0,0,1,1,1,1,1,1,1,100,200
+Random1_1_100,1842,1,100,7 states,6 symbols,1122,8,0,543,6,1,0,0,8.4415,8,7,4736,89296,SAT,0.5754,400,400,331,400,0,69,1,0.83,1,0.9,0.9,0.9,0.952380952380952,100,12.5
+Random1_0_100,3646,0,100,7 states,6 symbols,1119,9,0,495,6,3,0,0,17.6314,8,7,4352,81888,SAT,1.1403,400,400,400,400,0,0,1,1,1,1,1,1,1,100,33.33
+Random1_5_100,4343,5,100,7 states,6 symbols,1121,7,0,494,6,10,0,0,12.7138,8,7,4344,81475,SAT,1.2277,400,400,400,400,0,0,1,1,1,1,1,1,1,100,142.86

@@ -1,0 +1,39 @@
+File: Random1
+Seed: 9917
+Trails: 3
+Number of walks: 50
+Size of reference graph: 7 states
+Alphabet_size: 6 symbols
+
+Size of actual model(APTA): 546
+Size of APTA after merging rejected states: 546
+Correct merges: 11
+Incorrect merges: 3
+Size of learned model(sicco_EDSM): 225
+Total time spent in EDSM (seconds): 4.3382
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 12
+Number of SAT solver calls: 11
+Number of variables in the last SAT call: 3576
+Number of clauses in the last SAT call: 94104
+SAT result: SAT
+Total time spent in SAT solver (seconds): 23.1239
+Total time spent in SAT solver (seconds): 23.1239
+
+
+Evaluation Report:
+number of Positive traces: 200
+number of Negative traces: 200
+True Positive: 70
+True Negative: 191
+False Positive: 9
+False Negative: 130
+Precision: 0.89
+Recall: 0.35
+Specificity: 0.95
+F-measure: 0.50
+Accuracy: 0.70
+BCR: 0.70
+Structural Difference: 0.6233766233766234

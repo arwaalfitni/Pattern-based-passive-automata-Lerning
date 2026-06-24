@@ -1,0 +1,32 @@
+File: Random6
+Seed: 5289
+Trails: 2
+Number of walks: 0
+Size of reference graph: 11 states
+Alphabet_size: 12 symbols
+
+Size of actual model(APTA): 233
+Correct merges: 32
+Incorrect merges: 17
+Size of learned model (baised_EDSM): 28
+number of hard patterns: 12
+number of blocked potential-merges by hard patterns: 2974
+number of soft patterns: 0
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 2.7351
+
+
+Evaluation Report:
+number of Positive traces: 92
+number of Negative traces: 92
+True Positive: 0
+True Negative: 92
+False Positive: 0
+False Negative: 92
+Precision: 0.00
+Recall: 0.00
+Specificity: 0.00
+F-measure: 0.00
+Accuracy: 0.50
+BCR: 0.00
+Structural Difference: 0.17942583732057416

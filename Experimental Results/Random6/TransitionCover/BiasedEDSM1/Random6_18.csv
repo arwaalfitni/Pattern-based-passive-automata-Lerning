@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random6_1_18,5059,1,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.5878,92,92,0,92,0,92,0.00,0.00,0.00,0.00,0.50,0.00,0.17942583732057416,65.31,6069.39
+Random6_7_18,6380,7,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.4542,92,92,0,92,0,92,0.00,0.00,0.00,0.00,0.50,0.00,0.17942583732057416,65.31,6069.39
+Random6_0_18,6046,0,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.4717,92,92,0,91,1,92,0.00,0.00,0.99,0.00,0.50,0.50,0.17942583732057416,65.31,6069.39
+Random6_2_18,5289,2,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.5077,92,92,0,92,0,92,0.00,0.00,0.00,0.00,0.50,0.00,0.17942583732057416,65.31,6069.39
+Random6_3_18,3488,3,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.5196,92,92,0,92,0,92,0.00,0.00,0.00,0.00,0.50,0.00,0.17942583732057416,65.31,6069.39
+Random6_4_18,9208,4,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.4382,92,92,1,92,0,91,1.00,0.01,1.00,0.00,0.50,0.50,0.17942583732057416,65.31,6069.39
+Random6_9_18,3428,9,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.5243,92,92,0,92,0,92,0.00,0.00,0.00,0.00,0.50,0.00,0.17942583732057416,65.31,6069.39
+Random6_6_18,9208,6,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.6103,92,92,1,92,0,91,1.00,0.01,1.00,0.00,0.50,0.50,0.17942583732057416,65.31,6069.39
+Random6_5_18,3720,5,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.4810,92,92,0,92,0,92,0.00,0.00,0.00,0.00,0.50,0.00,0.17942583732057416,65.31,6069.39
+Random6_8_18,3721,8,18,11 states,12 symbols,233,32,17,28,12,2974,0,0,2.4704,92,92,1,92,0,91,1.00,0.01,1.00,0.00,0.50,0.50,0.17942583732057416,65.31,6069.39

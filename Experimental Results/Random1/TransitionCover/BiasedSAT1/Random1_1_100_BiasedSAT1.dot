@@ -1,0 +1,35 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, shape=doublecircle];
+  "1" [shape=square];
+  "2" [shape=doublecircle];
+  "3" [shape=doublecircle];
+  "4" [shape=doublecircle];
+  "5" [shape=doublecircle];
+  "6" [shape=doublecircle];
+  "7" [shape=doublecircle];
+  "0" -> "4" [label="L0/X"];
+  "0" -> "1" [label="L0/Y\nL1/Y\nL2/Y"];
+  "0" -> "2" [label="L1/X"];
+  "0" -> "5" [label="L2/X"];
+  "2" -> "1" [label="L0/X\nL1/Y\nL2/Y"];
+  "2" -> "3" [label="L0/Y"];
+  "2" -> "2" [label="L1/X"];
+  "2" -> "0" [label="L2/X"];
+  "3" -> "1" [label="L0/X\nL1/X\nL2/X"];
+  "3" -> "3" [label="L0/Y\nL1/Y\nL2/Y"];
+  "4" -> "1" [label="L0/X\nL1/X\nL2/Y"];
+  "4" -> "3" [label="L0/Y\nL1/Y"];
+  "4" -> "6" [label="L2/X"];
+  "5" -> "7" [label="L0/X"];
+  "5" -> "1" [label="L0/Y\nL1/Y\nL2/Y"];
+  "5" -> "6" [label="L1/X"];
+  "5" -> "2" [label="L2/X"];
+  "6" -> "0" [label="L0/X"];
+  "6" -> "1" [label="L0/Y\nL1/X\nL2/X"];
+  "6" -> "3" [label="L1/Y\nL2/Y"];
+  "7" -> "1" [label="L0/X\nL1/X\nL2/Y"];
+  "7" -> "3" [label="L0/Y\nL1/Y"];
+  "7" -> "0" [label="L2/X"];
+}

@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),Number of colors used (automata_size),Number of SAT solver calls,Number of variables in the last SAT call,Number of clauses in the last SAT call,SAT result,Total time spent in SAT solver (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge
+Random1_2_3,1249,2,3,7 states,6 symbols,57,7,3,24,23,602,,,0.2878,7,6,469,5887,SAT,0.2095,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_9_3,509,9,3,7 states,6 symbols,57,7,3,24,23,602,,,0.2811,7,6,469,5887,SAT,0.2133,36,36,1,36,0,35,1.00,0.03,1.00,0.10,0.50,0.50,0.6706349206349207,70.00
+Random1_8_3,7796,8,3,7 states,6 symbols,57,7,3,24,23,602,,,0.3270,7,6,469,5887,SAT,0.2144,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_1_3,9563,1,3,7 states,6 symbols,57,7,3,24,23,602,,,0.2860,7,6,469,5887,SAT,0.2061,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_0_3,8580,0,3,7 states,6 symbols,57,7,3,24,23,602,,,0.4098,7,6,469,5887,SAT,0.2373,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_7_3,1335,7,3,7 states,6 symbols,57,7,3,24,23,602,,,0.3085,7,6,469,5887,SAT,0.2092,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_4_3,7794,4,3,7 states,6 symbols,57,7,3,24,23,602,,,0.4943,7,6,469,5887,SAT,0.2274,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_3_3,9917,3,3,7 states,6 symbols,57,7,3,24,23,602,,,0.2834,7,6,469,5887,SAT,0.2048,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00
+Random1_5_3,6644,5,3,7 states,6 symbols,57,7,3,24,23,602,,,0.2767,7,6,469,5887,SAT,0.2055,36,36,1,36,0,35,1.00,0.03,1.00,0.10,0.50,0.50,0.6706349206349207,70.00
+Random1_6_3,4424,6,3,7 states,6 symbols,57,7,3,24,23,602,,,1.8148,7,6,469,5887,SAT,0.2065,36,36,0,36,0,36,0.00,0.00,0.00,0.00,0.50,0.00,0.6706349206349207,70.00

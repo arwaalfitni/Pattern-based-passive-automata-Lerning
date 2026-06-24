@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random2_0_9,9327,0,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.8577,96,96,1,96,0,95,1.0,0.01,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_8_9,7526,8,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.9728,96,96,1,96,0,95,1.0,0.01,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_1_9,2970,1,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.8919,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_7_9,216,7,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.9815,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_6_9,1871,6,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,2.0253,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_9_9,3485,9,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.903,96,96,2,96,0,94,1.0,0.02,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_4_9,8332,4,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.9275,96,96,1,96,0,95,1.0,0.01,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_2_9,8690,2,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.8793,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_5_9,8737,5,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.891,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_3_9,9989,3,9,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.941,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5

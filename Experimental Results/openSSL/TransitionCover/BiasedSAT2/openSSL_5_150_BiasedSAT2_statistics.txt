@@ -1,0 +1,40 @@
+File: openSSL
+Seed: 3796
+Trails: 5
+Number of walks: 150
+Size of reference graph: 6 states
+Alphabet_size: 20 symbols
+
+Size of actual model(APTA): 1486
+Correct merges: 117
+Incorrect merges: 0
+Size of learned model (baised_EDSM): 742
+number of hard patterns: 116
+number of blocked potential-merges by hard patterns: 135638
+Total time spent in EDSM (seconds): 1156.9815
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 6
+Number of SAT solver calls: 5
+Number of variables in the last SAT call: 6222
+Number of clauses in the last SAT call: 93387
+SAT result: SAT
+Total time spent in SAT solver (seconds): 0.7207
+Total time spent in SAT solver (seconds): 0.7207
+
+
+Evaluation Report:
+number of Positive traces: 600
+number of Negative traces: 600
+True Positive: 226
+True Negative: 600
+False Positive: 0
+False Negative: 374
+Precision: 1.00
+Recall: 0.38
+Specificity: 1.00
+F-measure: 0.50
+Accuracy: 0.70
+BCR: 0.70
+Structural Difference: 0.838095238095238

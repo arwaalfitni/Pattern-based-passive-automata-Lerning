@@ -1,0 +1,23 @@
+
+DFASAT Statistics:
+Number of colors used (automata_size): 10
+Number of SAT solver calls: 9
+Number of variables in the last SAT call: 6070
+Number of clauses in the last SAT call: 138722
+SAT result: SAT
+Total time spent in SAT solver (seconds): 4.3702
+
+Evaluation Report:
+number of Positive traces: 300
+number of Negative traces: 300
+True Positive: 285
+True Negative: 297
+False Positive: 3
+False Negative: 15
+Precision: 0.99
+Recall: 0.95
+Specificity: 0.99
+F-measure: 1.00
+Accuracy: 1.00
+BCR: 1.00
+Structural Difference: 0.6666666666666666

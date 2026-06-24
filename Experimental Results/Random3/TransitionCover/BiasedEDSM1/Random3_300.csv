@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random3_1_300,9321,1,300,10 states,8 symbols,5114,32,1,11,8,16,0,0,302.0722,1200,1200,1135,1198,2,65,1.00,0.95,1.00,1.00,1.00,1.00,0.9409883720930232,96.97,48.48
+Random3_7_300,9675,7,300,10 states,8 symbols,5100,30,4,12,8,83,0,0,255.4151,1200,1200,621,1179,21,579,0.97,0.52,0.98,0.70,0.80,0.80,0.8263888888888888,88.24,244.12
+Random3_4_300,3551,4,300,10 states,8 symbols,5034,30,3,11,8,38,0,0,377.0251,1200,1200,1065,1182,18,135,0.98,0.89,0.98,0.90,0.90,0.90,0.916860465116279,90.91,115.15
+Random3_6_300,6253,6,300,10 states,8 symbols,5126,29,4,11,8,48,0,0,373.0719,1200,1200,951,1166,34,249,0.97,0.79,0.97,0.90,0.90,0.90,0.8927325581395349,87.88,145.45
+Random3_8_300,1559,8,300,10 states,8 symbols,5104,31,2,11,8,42,0,0,346.8578,1200,1200,1128,1187,13,72,0.99,0.94,0.99,1.00,1.00,1.00,0.916860465116279,93.94,127.27
+Random3_3_300,7968,3,300,10 states,8 symbols,5077,30,1,11,8,37,0,0,403.9780,1200,1200,1056,1187,13,144,0.99,0.88,0.99,0.90,0.90,0.90,0.9384146341463415,96.77,119.35
+Random3_2_300,1564,2,300,10 states,8 symbols,5085,30,2,11,8,36,0,0,267.8492,1200,1200,1063,1185,15,137,0.99,0.89,0.99,0.90,0.90,0.90,0.9273809523809524,93.75,112.50
+Random3_5_300,6267,5,300,10 states,8 symbols,5055,31,3,12,8,39,0,0,259.5935,1200,1200,760,1179,21,440,0.97,0.63,0.98,0.80,0.80,0.80,0.8736111111111111,91.18,114.71
+Random3_9_300,3863,9,300,10 states,8 symbols,5095,26,7,12,8,43,0,0,287.9981,1200,1200,469,1174,26,731,0.95,0.39,0.98,0.60,0.70,0.70,0.8352272727272727,78.79,130.30
+Random3_0_300,221,0,300,10 states,8 symbols,5081,30,1,10,8,27,0,0,262.4114,1200,1200,1200,1187,13,0,0.99,1.00,0.99,1.00,1.00,1.00,0.975,96.77,87.10

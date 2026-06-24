@@ -1,0 +1,29 @@
+__________Learning_Negative Traces_________
+Finished/1, ClientKeyExchange/1, ChangeCipherSpec/1, ApplicationDataEmpty/1, ApplicationData/1, Finished/1, ClientHelloRSA/1, EmptyCertificate/2
+EmptyCertificate/1, EmptyCertificate/1, ClientKeyExchange/1, ApplicationDataEmpty/1, ClientHelloRSA/1, ClientKeyExchange/1, Finished/6
+ClientHelloRSA/3, Finished/4, EmptyCertificate/1, ClientHelloRSA/1, ChangeCipherSpec/1, ChangeCipherSpec/1, ApplicationData/1, ClientKeyExchange/3
+ApplicationDataEmpty/1, ClientHelloRSA/1, ChangeCipherSpec/1, ClientHelloRSA/1, ClientKeyExchange/1, ApplicationData/1, Finished/1, ApplicationDataEmpty/1, ClientKeyExchange/1, ChangeCipherSpec/1, ClientKeyExchange/5
+ApplicationData/1, ApplicationDataEmpty/1, ApplicationData/1, EmptyCertificate/1, ApplicationData/1, Finished/1, ApplicationDataEmpty/2
+ClientKeyExchange/1, ClientKeyExchange/1, Finished/1, ApplicationDataEmpty/1, ClientKeyExchange/1, ClientHelloRSA/1, ClientHelloRSA/1, EmptyCertificate/7
+ChangeCipherSpec/2, ClientKeyExchange/1, ClientKeyExchange/1, Finished/1, ApplicationData/1, ApplicationData/1, ChangeCipherSpec/1, ChangeCipherSpec/1, ApplicationData/2
+ClientHelloRSA/3, ApplicationDataEmpty/2, Finished/4, ChangeCipherSpec/1, EmptyCertificate/1, EmptyCertificate/1, ApplicationDataEmpty/1, ClientHelloRSA/1, Finished/1, ApplicationData/1, EmptyCertificate/1, ApplicationDataEmpty/3
+ClientHelloRSA/3, ClientHelloRSA/4, Finished/1, Finished/1, ClientHelloRSA/1, ClientHelloRSA/1, ChangeCipherSpec/4
+ClientHelloRSA/3, ApplicationData/4, EmptyCertificate/1, ChangeCipherSpec/1, ApplicationDataEmpty/1, Finished/1, ClientHelloRSA/1, ClientHelloRSA/1, Finished/1, ApplicationDataEmpty/6
+ClientHelloRSA/3, ClientKeyExchange/2, ApplicationData/4, ApplicationDataEmpty/1, ClientHelloRSA/1, ClientKeyExchange/1, ApplicationDataEmpty/5
+ClientHelloRSA/3, EmptyCertificate/4, ChangeCipherSpec/1, ApplicationData/1, ChangeCipherSpec/1, Finished/1, ChangeCipherSpec/5
+ClientHelloRSA/3, ChangeCipherSpec/4, ApplicationDataEmpty/1, Finished/1, ApplicationData/1, ApplicationDataEmpty/1, Finished/1, ApplicationDataEmpty/1, ClientHelloRSA/1, ClientKeyExchange/1, EmptyCertificate/5
+ClientHelloRSA/3, ClientKeyExchange/2, ClientKeyExchange/4, EmptyCertificate/1, EmptyCertificate/1, ApplicationData/1, EmptyCertificate/1, ApplicationDataEmpty/3
+ClientHelloRSA/3, ClientKeyExchange/2, ClientHelloRSA/4, ClientHelloRSA/1, ClientKeyExchange/1, ApplicationData/1, ClientHelloRSA/1, EmptyCertificate/3
+ClientHelloRSA/3, ClientKeyExchange/2, ApplicationDataEmpty/2, EmptyCertificate/4, Finished/1, ApplicationDataEmpty/1, EmptyCertificate/1, ApplicationData/1, ApplicationDataEmpty/3
+ClientHelloRSA/3, ApplicationDataEmpty/2, ClientKeyExchange/2, ChangeCipherSpec/2, Finished/5, EmptyCertificate/4, ChangeCipherSpec/1, ClientHelloRSA/1, ClientKeyExchange/1, EmptyCertificate/2
+ClientHelloRSA/3, ClientKeyExchange/2, Finished/4, ClientKeyExchange/1, ClientKeyExchange/1, ChangeCipherSpec/1, EmptyCertificate/1, ApplicationData/3
+ClientHelloRSA/3, ClientKeyExchange/2, ChangeCipherSpec/2, ApplicationDataEmpty/2, EmptyCertificate/4, ApplicationDataEmpty/1, ChangeCipherSpec/3
+ClientHelloRSA/3, ApplicationDataEmpty/2, ClientKeyExchange/2, ChangeCipherSpec/2, ChangeCipherSpec/4, ChangeCipherSpec/1, EmptyCertificate/1, ClientHelloRSA/1, ApplicationData/1, ClientKeyExchange/1, Finished/6
+ClientHelloRSA/3, ClientKeyExchange/2, ApplicationDataEmpty/2, ChangeCipherSpec/2, ApplicationData/4, ApplicationDataEmpty/1, ApplicationDataEmpty/1, ApplicationDataEmpty/4
+ClientHelloRSA/3, ClientKeyExchange/2, ChangeCipherSpec/2, ClientHelloRSA/4, ApplicationDataEmpty/1, Finished/1, ClientHelloRSA/1, Finished/1, Finished/4
+ClientHelloRSA/3, ApplicationDataEmpty/2, ClientKeyExchange/2, ChangeCipherSpec/2, ClientKeyExchange/4, ApplicationData/1, ApplicationData/2
+ClientHelloRSA/3, ClientKeyExchange/2, ChangeCipherSpec/2, Finished/5, ClientKeyExchange/4, ApplicationDataEmpty/1, ClientHelloRSA/6
+ClientHelloRSA/3, ApplicationDataEmpty/2, ClientKeyExchange/2, ChangeCipherSpec/2, Finished/5, ClientHelloRSA/7, ApplicationDataEmpty/3
+ClientHelloRSA/3, ClientKeyExchange/2, ApplicationDataEmpty/2, ChangeCipherSpec/2, Finished/5, ChangeCipherSpec/4, ApplicationData/1, ApplicationData/2
+ClientHelloRSA/3, ClientKeyExchange/2, ChangeCipherSpec/2, Finished/5, ApplicationDataEmpty/2, ApplicationData/6, ChangeCipherSpec/7
+ClientHelloRSA/3, ClientKeyExchange/2, ChangeCipherSpec/2, Finished/5, Finished/4, ChangeCipherSpec/7

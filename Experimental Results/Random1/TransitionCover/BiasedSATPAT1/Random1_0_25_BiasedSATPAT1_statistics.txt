@@ -1,0 +1,18 @@
+File: Random1
+Seed: 8580
+Trails: 0
+Number of walks: 25
+Size of reference graph: 7 states
+Alphabet_size: 6 symbols
+
+Size of actual model(APTA): 251
+Correct merges: 7
+Incorrect merges: 2
+Size of learned model (baised_EDSM): 109
+number of hard patterns: 6
+number of blocked potential-merges by hard patterns: 27
+number of soft patterns: 0
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 0.4548
+
+

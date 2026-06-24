@@ -1,0 +1,30 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "17" [fillcolor=red, shape=doublecircle];
+  "22" [fillcolor=red, shape=doublecircle];
+  "43" [fillcolor=red, shape=doublecircle];
+  "44" [fillcolor=red, shape=doublecircle];
+  "45" [fillcolor=red, shape=doublecircle];
+  "48" [fillcolor=red, shape=doublecircle];
+  "53" [fillcolor=red, shape=doublecircle];
+  "0" -> "22" [label="POD/2"];
+  "0" -> "0" [label="WATER/2\nCLEAN/2"];
+  "0" -> "43" [label="BUTTON/1"];
+  "17" -> "53" [label="BUTTON/3"];
+  "17" -> "0" [label="CLEAN/2"];
+  "22" -> "17" [label="WATER/2"];
+  "22" -> "0" [label="POD/2\nCLEAN/2"];
+  "43" -> "44" [label="POD/1\nWATER/1"];
+  "43" -> "43" [label="CLEAN/1\nBUTTON/1"];
+  "44" -> "45" [label="BUTTON/1"];
+  "44" -> "44" [label="POD/1"];
+  "45" -> "43" [label="BUTTON/1"];
+  "45" -> "45" [label="WATER/1"];
+  "45" -> "48" [label="POD/1"];
+  "48" -> "43" [label="CLEAN/1"];
+  "53" -> "22" [label="CLEAN/2"];
+  "53" -> "43" [label="BUTTON/1"];
+  "53" -> "44" [label="WATER/1\nPOD/1"];
+}

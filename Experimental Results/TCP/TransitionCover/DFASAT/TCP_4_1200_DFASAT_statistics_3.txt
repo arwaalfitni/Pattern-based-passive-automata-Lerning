@@ -1,0 +1,9 @@
+
+DFASAT Statistics:
+Number of colors used (automata_size): 28
+Number of SAT solver calls: 26
+Number of variables in the last SAT call: 414882
+Number of clauses in the last SAT call: 25349833
+SAT result: TIMEOUT
+Total time spent in SAT solver (seconds): 6104.8354
+Structural Difference: 0.7885405960945528

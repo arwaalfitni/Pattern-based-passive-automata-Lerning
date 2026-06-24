@@ -1,0 +1,25 @@
+File: TCP
+Seed: 1923
+Trails: 5
+Number of walks: 75
+Size of reference graph: 14 states
+Alphabet_size: 28 symbols
+
+Size of actual model(APTA): 1449
+Correct merges: 252
+Incorrect merges: 135
+Size of learned model (baised_EDSM): 724
+number of hard patterns: 259
+number of blocked potential-merges by hard patterns: 2078223
+Total time spent in EDSM (seconds): 10186.4675
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 28
+Number of SAT solver calls: 26
+Number of variables in the last SAT call: 99765
+Number of clauses in the last SAT call: 4763325
+SAT result: TIMEOUT
+Total time spent in SAT solver (seconds): 5020.5864
+Total time spent in SAT solver (seconds): 5020.5865
+

@@ -1,0 +1,2550 @@
+Exploration Map
+==============================
+Event: ACK+PSH(V,V,1)/6
+  Followed by:
+    RCV/2: 21.43%
+    SYN(V,V,0)/2: 21.43%
+    RST(V,V,0)/2: 14.29%
+    ACK(V,V,0)/2: 14.29%
+    CLOSE/10: 7.14%
+    FIN+ACK(V,V,0)/6: 14.29%
+    ACK+RST(V,V,0)/2: 7.14%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    CONNECT/2
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CONNECT/9
+Percentage_of_appearance: 0.4%
+------------------------------
+Event: SYN(V,V,0)/9
+  Followed by:
+    ACK+RST(V,V,0)/2: 12.5%
+    RCV/2: 12.5%
+    ACK+PSH(V,V,1)/6: 25.0%
+    SYN(V,V,0)/2: 12.5%
+    ACK(V,V,0)/2: 12.5%
+    SYN+ACK(V,V,0)/8: 25.0%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    RST(V,V,0)/2
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    CONNECT/2
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.23%
+------------------------------
+Event: FIN+ACK(V,V,0)/8
+  Followed by:
+    CONNECT/2: 25.0%
+    RCV/2: 25.0%
+    RST(V,V,0)/2: 25.0%
+    ACK+RST(V,V,0)/2: 25.0%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.11%
+------------------------------
+Event: ACK+PSH(V,V,1)/8
+  Followed by:
+    RST(V,V,0)/2: 25.0%
+    SYN(V,V,0)/8: 25.0%
+    CONNECT/2: 25.0%
+    RCV/2: 25.0%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    ACK+RST(V,V,0)/2
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.11%
+------------------------------
+Event: CONNECT/3
+  Followed by:
+    SYN(V,V,0)/5: 15.0%
+    ACK+PSH(V,V,1)/2: 10.0%
+    RST(V,V,0)/2: 13.33%
+    RCV/2: 11.67%
+    FIN+ACK(V,V,0)/2: 6.67%
+    CONNECT/2: 8.33%
+    SYN+ACK(V,V,0)/6: 26.67%
+    ACK(V,V,0)/2: 25.0%
+    ACK+RST(V,V,0)/2: 5.0%
+    CLOSE/2: 6.67%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 1.71%
+------------------------------
+Event: SYN(V,V,0)/2
+  Followed by:
+    SYN+ACK(V,V,0)/8: 20.83%
+    CONNECT/2: 12.5%
+    RST(V,V,0)/2: 8.33%
+    CLOSE/7: 12.5%
+    FIN+ACK(V,V,0)/6: 8.33%
+    CLOSE/10: 4.17%
+    CLOSE/2: 4.17%
+    RCV/2: 8.33%
+    SYN(V,V,0)/2: 8.33%
+    ACK(V,V,0)/2: 8.33%
+    ACK+PSH(V,V,1)/6: 4.17%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    ACK+RST(V,V,0)/2
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CONNECT/9
+Percentage_of_appearance: 0.68%
+------------------------------
+Event: ACK+PSH(V,V,1)/11
+  Followed by:
+    ACK+RST(V,V,0)/2: 25.0%
+    FIN+ACK(V,V,0)/1: 25.0%
+    CLOSE/2: 25.0%
+    SYN+ACK(V,V,0)/1: 25.0%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    RST(V,V,0)/2
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    CONNECT/2
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/2
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.11%
+------------------------------
+Event: SYN(V,V,0)/5
+  Followed by:
+    ACK(V,V,0)/2: 12.0%
+    ACK+PSH(V,V,1)/6: 12.0%
+    RCV/2: 8.0%
+    SYN(V,V,0)/2: 16.0%
+    FIN+ACK(V,V,0)/6: 12.0%
+    CLOSE/7: 28.0%
+    SYN+ACK(V,V,0)/8: 4.0%
+    CONNECT/2: 4.0%
+    RST(V,V,0)/2: 12.0%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    ACK+RST(V,V,0)/2
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.71%
+------------------------------
+Event: SYN(V,V,0)/4
+  Followed by:
+    CLOSE/2: 10.47%
+    FIN+ACK(V,V,0)/1: 10.14%
+    RCV/2: 8.45%
+    CONNECT/3: 1.35%
+    ACK+RST(V,V,0)/2: 12.84%
+    SYN+ACK(V,V,0)/1: 11.15%
+    SYN(V,V,0)/4: 7.77%
+    ACK+PSH(V,V,1)/1: 9.8%
+    RST(V,V,0)/2: 7.77%
+    CONNECT/2: 9.46%
+    ACK(V,V,0)/1: 8.11%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 8.44%
+------------------------------
+Event: ACK(V,V,0)/1
+  Followed by:
+    FIN+ACK(V,V,0)/1: 10.1%
+    ACK(V,V,0)/1: 8.75%
+    CONNECT/3: 2.69%
+    SYN(V,V,0)/4: 10.1%
+    ACK+PSH(V,V,1)/1: 10.1%
+    CLOSE/2: 8.08%
+    SYN+ACK(V,V,0)/1: 10.77%
+    ACK+RST(V,V,0)/2: 13.47%
+    RST(V,V,0)/2: 10.44%
+    RCV/2: 9.09%
+    CONNECT/2: 7.07%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 8.46%
+------------------------------
+Event: ACK+PSH(V,V,1)/2
+  Followed by:
+    ACK+RST(V,V,0)/2: 8.33%
+    SYN+ACK(V,V,0)/6: 12.5%
+    ACK(V,V,0)/2: 12.5%
+    SYN(V,V,0)/5: 8.33%
+    RST(V,V,0)/2: 16.67%
+    SYN+ACK(V,V,0)/8: 4.17%
+    FIN+ACK(V,V,0)/2: 4.17%
+    CONNECT/2: 12.5%
+    CLOSE/7: 4.17%
+    ACK+PSH(V,V,1)/2: 4.17%
+    RCV/2: 12.5%
+    CLOSE/2: 4.17%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.68%
+------------------------------
+Event: RST(V,V,0)/2
+  Followed by:
+    ACK(V,V,0)/1: 8.31%
+    ACK+RST(V,V,0)/2: 9.23%
+    ACK+PSH(V,V,1)/1: 10.46%
+    CONNECT/3: 1.85%
+    CLOSE/2: 9.85%
+    RST(V,V,0)/2: 8.92%
+    FIN+ACK(V,V,0)/1: 8.92%
+    SYN(V,V,0)/4: 12.0%
+    SYN+ACK(V,V,0)/1: 10.77%
+    CONNECT/2: 5.54%
+    RCV/2: 13.23%
+    SYN(V,V,0)/9: 0.92%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 9.26%
+------------------------------
+Event: ACK+RST(V,V,0)/2
+  Followed by:
+    ACK+PSH(V,V,1)/1: 8.93%
+    FIN+ACK(V,V,0)/1: 9.82%
+    SYN(V,V,0)/4: 10.12%
+    CONNECT/3: 3.87%
+    ACK+RST(V,V,0)/2: 5.65%
+    ACK(V,V,0)/1: 8.93%
+    SYN+ACK(V,V,0)/1: 13.1%
+    CLOSE/2: 8.33%
+    RCV/2: 14.58%
+    CONNECT/2: 8.04%
+    RST(V,V,0)/2: 7.44%
+    SYN(V,V,0)/9: 0.3%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 9.58%
+------------------------------
+Event: CONNECT/2
+  Followed by:
+    CLOSE/2: 7.49%
+    ACK+PSH(V,V,1)/1: 12.05%
+    SYN(V,V,0)/5: 1.3%
+    SYN+ACK(V,V,0)/1: 8.14%
+    RCV/2: 8.79%
+    SYN(V,V,0)/9: 0.33%
+    RST(V,V,0)/2: 8.79%
+    ACK+RST(V,V,0)/2: 9.77%
+    ACK+PSH(V,V,1)/2: 0.65%
+    ACK(V,V,0)/1: 7.49%
+    SYN+ACK(V,V,0)/6: 0.65%
+    FIN+ACK(V,V,0)/6: 0.98%
+    FIN+ACK(V,V,0)/1: 7.17%
+    SYN(V,V,0)/4: 6.84%
+    SYN(V,V,0)/2: 0.98%
+    CLOSE/7: 1.3%
+    ACK(V,V,0)/2: 0.98%
+    CONNECT/2: 9.77%
+    ACK+PSH(V,V,1)/8: 0.65%
+    SYN+ACK(V,V,0)/8: 1.3%
+    SYN(V,V,0)/8: 0.65%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 8.75%
+------------------------------
+Event: FIN+ACK(V,V,0)/1
+  Followed by:
+    ACK+RST(V,V,0)/2: 13.76%
+    SYN+ACK(V,V,0)/1: 11.07%
+    RCV/2: 7.05%
+    RST(V,V,0)/2: 8.39%
+    ACK(V,V,0)/1: 12.75%
+    CLOSE/2: 8.05%
+    FIN+ACK(V,V,0)/1: 10.07%
+    SYN(V,V,0)/4: 10.07%
+    CONNECT/3: 1.68%
+    ACK+PSH(V,V,1)/1: 8.39%
+    CONNECT/2: 10.07%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 8.49%
+------------------------------
+Event: SYN+ACK(V,V,0)/6
+  Followed by:
+    RCV/2: 11.54%
+    ACK(V,V,0)/2: 15.38%
+    ACK+PSH(V,V,1)/6: 7.69%
+    ACK+RST(V,V,0)/2: 3.85%
+    SYN(V,V,0)/2: 15.38%
+    CONNECT/2: 11.54%
+    CLOSE/7: 11.54%
+    FIN+ACK(V,V,0)/6: 11.54%
+    SYN+ACK(V,V,0)/8: 3.85%
+    RST(V,V,0)/2: 7.69%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.74%
+------------------------------
+Event: CLOSE/2
+  Followed by:
+    SYN(V,V,0)/4: 9.21%
+    FIN+ACK(V,V,0)/1: 7.57%
+    ACK+RST(V,V,0)/2: 10.53%
+    SYN+ACK(V,V,0)/1: 10.53%
+    ACK(V,V,0)/1: 8.55%
+    RCV/2: 9.87%
+    ACK+PSH(V,V,1)/1: 10.2%
+    CONNECT/2: 12.17%
+    CLOSE/2: 7.89%
+    ACK+PSH(V,V,1)/11: 0.33%
+    RST(V,V,0)/2: 10.2%
+    ACK+PSH(V,V,1)/8: 0.33%
+    ACK+PSH(V,V,1)/2: 0.66%
+    ACK(V,V,0)/2: 0.66%
+    FIN+ACK(V,V,0)/6: 0.33%
+    SYN(V,V,0)/2: 0.33%
+    FIN+ACK(V,V,0)/2: 0.33%
+    FIN+ACK(V,V,0)/8: 0.33%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    ACK+RST(V,V,0)/11
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 8.66%
+------------------------------
+Event: SYN+ACK(V,V,0)/11
+  Followed by:
+    ACK(V,V,0)/1: 100.0%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    RST(V,V,0)/2
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    ACK+RST(V,V,0)/2
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    CONNECT/2
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/2
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.03%
+------------------------------
+Event: FIN+ACK(V,V,0)/6
+  Followed by:
+    FIN+ACK(V,V,0)/2: 14.81%
+    SYN(V,V,0)/2: 3.7%
+    ACK+PSH(V,V,1)/2: 14.81%
+    RCV/2: 3.7%
+    ACK+RST(V,V,0)/2: 3.7%
+    RST(V,V,0)/2: 3.7%
+    ACK(V,V,0)/2: 18.52%
+    FIN+ACK(V,V,0)/8: 7.41%
+    CLOSE/2: 3.7%
+    SYN(V,V,0)/8: 11.11%
+    SYN+ACK(V,V,0)/8: 11.11%
+    CLOSE/7: 3.7%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    CONNECT/2
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.77%
+------------------------------
+Event: RCV/2
+  Followed by:
+    FIN+ACK(V,V,0)/1: 10.35%
+    RST(V,V,0)/2: 9.81%
+    ACK+PSH(V,V,1)/1: 8.45%
+    SYN(V,V,0)/4: 8.17%
+    ACK(V,V,0)/1: 7.9%
+    RCV/2: 11.72%
+    ACK+RST(V,V,0)/2: 8.17%
+    SYN+ACK(V,V,0)/1: 7.08%
+    CONNECT/3: 2.18%
+    CLOSE/2: 8.99%
+    CLOSE/7: 1.09%
+    CONNECT/2: 7.9%
+    FIN+ACK(V,V,0)/6: 0.82%
+    SYN+ACK(V,V,0)/8: 0.54%
+    SYN(V,V,0)/5: 0.82%
+    ACK+PSH(V,V,1)/2: 0.82%
+    ACK+PSH(V,V,1)/6: 0.82%
+    ACK(V,V,0)/2: 1.09%
+    SYN(V,V,0)/9: 0.27%
+    FIN+ACK(V,V,0)/2: 0.54%
+    ACK+PSH(V,V,1)/8: 0.27%
+    SYN(V,V,0)/8: 0.27%
+    SYN(V,V,0)/2: 0.27%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 10.46%
+------------------------------
+Event: FIN+ACK(V,V,0)/2
+  Followed by:
+    ACK+PSH(V,V,1)/2: 6.67%
+    SYN+ACK(V,V,0)/8: 13.33%
+    SYN+ACK(V,V,0)/6: 20.0%
+    SYN(V,V,0)/5: 13.33%
+    FIN+ACK(V,V,0)/2: 6.67%
+    ACK+RST(V,V,0)/2: 6.67%
+    RST(V,V,0)/2: 6.67%
+    ACK(V,V,0)/2: 6.67%
+    CLOSE/7: 6.67%
+    RCV/2: 6.67%
+    CONNECT/2: 6.67%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.43%
+------------------------------
+Event: SYN+ACK(V,V,0)/1
+  Followed by:
+    ACK+PSH(V,V,1)/1: 8.54%
+    ACK(V,V,0)/1: 11.08%
+    SYN+ACK(V,V,0)/1: 8.86%
+    CONNECT/3: 2.85%
+    RCV/2: 9.18%
+    CLOSE/2: 12.97%
+    SYN(V,V,0)/4: 8.86%
+    RST(V,V,0)/2: 10.13%
+    FIN+ACK(V,V,0)/1: 9.81%
+    CONNECT/2: 6.96%
+    ACK+RST(V,V,0)/2: 9.49%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 9.01%
+------------------------------
+Event: ACK(V,V,0)/2
+  Followed by:
+    CLOSE/7: 8.77%
+    RST(V,V,0)/2: 12.28%
+    CONNECT/2: 12.28%
+    SYN(V,V,0)/5: 8.77%
+    RCV/2: 8.77%
+    SYN+ACK(V,V,0)/6: 3.51%
+    SYN+ACK(V,V,0)/11: 1.75%
+    ACK+RST(V,V,0)/2: 7.02%
+    FIN+ACK(V,V,0)/2: 3.51%
+    ACK+PSH(V,V,1)/6: 1.75%
+    SYN(V,V,0)/2: 1.75%
+    ACK(V,V,0)/2: 8.77%
+    SYN(V,V,0)/4: 3.51%
+    ACK+PSH(V,V,1)/11: 1.75%
+    ACK+PSH(V,V,1)/2: 5.26%
+    FIN+ACK(V,V,0)/6: 1.75%
+    FIN+ACK(V,V,0)/8: 1.75%
+    SYN+ACK(V,V,0)/8: 1.75%
+    CLOSE/2: 1.75%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/6
+    CONNECT/8
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    RCV/6
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 1.62%
+------------------------------
+Event: CLOSE/7
+  Followed by:
+    ACK+RST(V,V,0)/2: 6.45%
+    CLOSE/2: 16.13%
+    CONNECT/2: 6.45%
+    ACK(V,V,0)/2: 16.13%
+    FIN+ACK(V,V,0)/6: 16.13%
+    SYN(V,V,0)/2: 6.45%
+    SYN+ACK(V,V,0)/8: 12.9%
+    RCV/2: 9.68%
+    RST(V,V,0)/2: 3.23%
+    ACK+PSH(V,V,1)/11: 6.45%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.88%
+------------------------------
+Event: ACK+PSH(V,V,1)/1
+  Followed by:
+    FIN+ACK(V,V,0)/1: 9.97%
+    ACK+RST(V,V,0)/2: 7.97%
+    RST(V,V,0)/2: 9.97%
+    RCV/2: 11.3%
+    SYN(V,V,0)/4: 9.97%
+    ACK+PSH(V,V,1)/1: 8.64%
+    CONNECT/3: 1.99%
+    CLOSE/2: 9.3%
+    ACK(V,V,0)/1: 12.29%
+    CONNECT/2: 9.3%
+    SYN+ACK(V,V,0)/1: 8.64%
+    SYN(V,V,0)/9: 0.66%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 8.58%
+------------------------------
+Event: SYN(V,V,0)/8
+  Followed by:
+    ACK(V,V,0)/2: 14.29%
+    RST(V,V,0)/2: 14.29%
+    SYN+ACK(V,V,0)/8: 14.29%
+    CLOSE/2: 14.29%
+    CONNECT/2: 14.29%
+    RCV/2: 14.29%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    ACK+RST(V,V,0)/2
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: SYN+ACK(V,V,0)/8
+  Followed by:
+    CLOSE/7: 6.9%
+    CONNECT/2: 27.59%
+    FIN+ACK(V,V,0)/6: 13.79%
+    ACK+RST(V,V,0)/2: 10.34%
+    RST(V,V,0)/2: 3.45%
+    SYN+ACK(V,V,0)/8: 6.9%
+    ACK+PSH(V,V,1)/2: 6.9%
+    RCV/2: 10.34%
+    ACK+PSH(V,V,1)/6: 6.9%
+    ACK(V,V,0)/2: 3.45%
+    SYN(V,V,0)/2: 3.45%
+  Not followed by:
+    CLOSE/1
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    SYN+ACK(V,V,0)/5
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    RCV/8
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.83%
+------------------------------
+Event: CLOSE/10
+  Followed by:
+    RCV/2: 50.0%
+    CONNECT/2: 50.0%
+  Not followed by:
+    CLOSE/1
+    ACK+PSH(V,V,1)/6
+    RST(V,V,0)/8
+    ACK+RST(V,V,0)/1
+    RST(V,V,0)/10
+    RST(V,V,0)/4
+    SYN(V,V,0)/3
+    SYN(V,V,0)/9
+    SYN+ACK(V,V,0)/4
+    FIN+ACK(V,V,0)/8
+    ACK+RST(V,V,0)/11
+    ACK+PSH(V,V,1)/8
+    CONNECT/4
+    RST(V,V,0)/9
+    ACK+PSH(V,V,1)/9
+    RCV/5
+    ACK+PSH(V,V,1)/10
+    ACK(V,V,0)/9
+    CONNECT/3
+    ACK(V,V,0)/8
+    RST(V,V,0)/1
+    ACK+RST(V,V,0)/9
+    ACK(V,V,0)/7
+    ACK+PSH(V,V,1)/3
+    CLOSE/9
+    FIN+ACK(V,V,0)/11
+    ACK(V,V,0)/3
+    ACK+PSH(V,V,1)/7
+    SYN(V,V,0)/2
+    ACK+PSH(V,V,1)/11
+    SYN(V,V,0)/6
+    CONNECT/8
+    SYN(V,V,0)/5
+    RCV/1
+    ACK(V,V,0)/4
+    RCV/7
+    SYN(V,V,0)/4
+    ACK(V,V,0)/1
+    RCV/4
+    RST(V,V,0)/6
+    ACK+PSH(V,V,1)/2
+    SYN+ACK(V,V,0)/5
+    RST(V,V,0)/2
+    ACK+RST(V,V,0)/8
+    ACK+RST(V,V,0)/5
+    ACK+RST(V,V,0)/2
+    CONNECT/5
+    SYN(V,V,0)/7
+    SYN+ACK(V,V,0)/10
+    ACK+RST(V,V,0)/3
+    FIN+ACK(V,V,0)/1
+    RCV/11
+    SYN+ACK(V,V,0)/6
+    CLOSE/2
+    RCV/6
+    SYN+ACK(V,V,0)/11
+    SYN+ACK(V,V,0)/2
+    FIN+ACK(V,V,0)/6
+    FIN+ACK(V,V,0)/10
+    RCV/9
+    RST(V,V,0)/11
+    ACK+RST(V,V,0)/7
+    RCV/10
+    ACK+RST(V,V,0)/10
+    ACK+RST(V,V,0)/4
+    FIN+ACK(V,V,0)/2
+    SYN+ACK(V,V,0)/1
+    CONNECT/11
+    CLOSE/4
+    ACK+RST(V,V,0)/6
+    CLOSE/3
+    CONNECT/6
+    ACK(V,V,0)/2
+    RCV/8
+    CLOSE/7
+    ACK+PSH(V,V,1)/1
+    FIN+ACK(V,V,0)/5
+    ACK+PSH(V,V,1)/4
+    SYN(V,V,0)/8
+    FIN+ACK(V,V,0)/7
+    SYN+ACK(V,V,0)/9
+    SYN+ACK(V,V,0)/8
+    CLOSE/10
+    CONNECT/9
+Percentage_of_appearance: 0.06%
+------------------------------

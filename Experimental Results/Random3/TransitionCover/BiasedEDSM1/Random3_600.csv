@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random3_1_600,9321,1,600,10 states,8 symbols,10098,31,0,10,8,10,0,0,950.8226,2400,2400,2400,2400,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,32.26
+Random3_5_600,6267,5,600,10 states,8 symbols,10043,31,0,10,8,0,0,0,1303.3027,2400,2400,2400,2400,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,0.00
+Random3_0_600,221,0,600,10 states,8 symbols,10043,31,0,10,8,17,0,0,947.3623,2400,2400,2400,2400,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,54.84
+Random3_3_600,7968,3,600,10 states,8 symbols,10116,30,1,11,8,8,0,0,1038.4182,2400,2400,2097,2382,18,303,0.99,0.87,0.99,0.90,0.90,0.90,0.9384146341463415,96.77,25.81
+Random3_2_600,1564,2,600,10 states,8 symbols,10087,31,2,11,8,41,0,0,1314.3384,2400,2400,2248,2358,42,152,0.98,0.94,0.98,1.00,1.00,1.00,0.916860465116279,93.94,124.24
+Random3_4_600,3551,4,600,10 states,8 symbols,10035,30,3,11,8,7,0,0,1281.5036,2400,2400,2124,2358,42,276,0.98,0.89,0.98,0.90,0.90,0.90,0.916860465116279,90.91,21.21
+Random3_7_600,9675,7,600,10 states,8 symbols,10097,31,3,12,8,23,0,0,1003.9953,2400,2400,1660,2371,29,740,0.98,0.69,0.99,0.80,0.80,0.80,0.8736111111111111,91.18,67.65
+Random3_8_600,1559,8,600,10 states,8 symbols,10089,30,1,10,8,11,0,0,1939.8809,2400,2400,2400,2374,26,0,0.99,1.00,0.99,1.00,1.00,1.00,0.975,96.77,35.48
+Random3_9_600,3863,9,600,10 states,8 symbols,10107,29,3,11,8,19,0,0,1094.7334,2400,2400,1994,2357,43,406,0.98,0.83,0.98,0.90,0.90,0.90,0.9273809523809524,90.62,59.38
+Random3_6_600,6253,6,600,10 states,8 symbols,10152,30,1,10,8,5,0,0,1623.9102,2400,2400,2400,2374,26,0,0.99,1.00,0.99,1.00,1.00,1.00,0.975,96.77,16.13

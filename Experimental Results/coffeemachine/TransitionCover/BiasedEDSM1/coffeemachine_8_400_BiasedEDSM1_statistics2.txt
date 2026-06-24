@@ -1,0 +1,14 @@
+
+Evaluation Report:
+number of Positive traces: 1600
+number of Negative traces: 1600
+True Positive: 1537
+True Negative: 1600
+False Positive: 0
+False Negative: 63
+Precision: 1.00
+Recall: 0.96
+Specificity: 1.00
+F-measure: 1.00
+Accuracy: 1.00
+BCR: 1.00

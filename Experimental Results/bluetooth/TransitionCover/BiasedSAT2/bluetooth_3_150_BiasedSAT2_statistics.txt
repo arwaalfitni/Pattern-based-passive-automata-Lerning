@@ -1,0 +1,7 @@
+File: bluetooth
+Seed: 7492
+Trails: 3
+Number of walks: 150
+Size of reference graph: 15 states
+Alphabet_size: 15 symbols
+

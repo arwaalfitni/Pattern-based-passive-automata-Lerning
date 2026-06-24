@@ -1,0 +1,36 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "1" [fillcolor=red, shape=doublecircle];
+  "17" [fillcolor=red, shape=doublecircle];
+  "32" [fillcolor=red, shape=doublecircle];
+  "40" [fillcolor=red, shape=doublecircle];
+  "48" [fillcolor=red, shape=doublecircle];
+  "96" [fillcolor=red, shape=doublecircle];
+  "101" [fillcolor=red, shape=doublecircle];
+  "217" [fillcolor=red, shape=doublecircle];
+  "256" [fillcolor=red, shape=doublecircle];
+  "0" -> "1" [label="L1/X"];
+  "0" -> "17" [label="L0/X"];
+  "0" -> "32" [label="L2/X"];
+  "1" -> "1" [label="L1/X"];
+  "1" -> "32" [label="L2/X"];
+  "1" -> "101" [label="L0/Y"];
+  "17" -> "101" [label="L0/Y\nL2/X\nL1/Y"];
+  "32" -> "40" [label="L2/X"];
+  "32" -> "48" [label="L1/X"];
+  "32" -> "17" [label="L0/X"];
+  "40" -> "217" [label="L1/X"];
+  "40" -> "256" [label="L2/X"];
+  "40" -> "101" [label="L0/Y"];
+  "48" -> "0" [label="L0/X"];
+  "48" -> "101" [label="L1/Y\nL2/Y"];
+  "96" -> "96" [label="L0/X"];
+  "96" -> "48" [label="L2/X"];
+  "101" -> "101" [label="L1/Y\nL0/Y\nL2/Y"];
+  "217" -> "0" [label="L0/X"];
+  "217" -> "40" [label="L1/X"];
+  "256" -> "96" [label="L2/X"];
+  "256" -> "1" [label="L0/X\nL1/X"];
+}

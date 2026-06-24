@@ -1,0 +1,22 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "516" [fillcolor=red, shape=doublecircle];
+  "517" [fillcolor=red, shape=doublecircle];
+  "518" [fillcolor=red, shape=doublecircle];
+  "560" [fillcolor=red, shape=doublecircle];
+  "0" -> "0" [label="WATER/2\nCLEAN/2"];
+  "0" -> "560" [label="BUTTON/1"];
+  "0" -> "516" [label="POD/2"];
+  "516" -> "517" [label="WATER/2"];
+  "516" -> "516" [label="POD/2"];
+  "516" -> "0" [label="CLEAN/2"];
+  "516" -> "560" [label="BUTTON/1"];
+  "517" -> "518" [label="BUTTON/3"];
+  "517" -> "517" [label="WATER/2\nPOD/2"];
+  "517" -> "516" [label="CLEAN/2"];
+  "518" -> "0" [label="CLEAN/2"];
+  "518" -> "560" [label="BUTTON/1\nPOD/1\nWATER/1"];
+  "560" -> "560" [label="POD/1\nWATER/1\nBUTTON/1\nCLEAN/1"];
+}

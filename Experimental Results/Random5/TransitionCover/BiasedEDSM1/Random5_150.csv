@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random5_4_150,1794,4,150,10 states,8 symbols,2520,30,6,15,8,113,0,0,47.4191,600,600,345,582,18,255,0.95,0.57,0.97,0.70,0.80,0.80,0.7424999999999999,83.33,313.89
+Random5_9_150,2895,9,150,10 states,8 symbols,2528,26,7,12,8,126,0,0,43.1888,600,600,105,592,8,495,0.93,0.17,0.99,0.30,0.60,0.60,0.8113636363636363,78.79,381.82
+Random5_1_150,8749,1,150,10 states,8 symbols,2510,26,10,13,8,150,0,0,50.3764,600,600,268,565,35,332,0.88,0.45,0.94,0.60,0.70,0.70,0.5958333333333333,72.22,416.67
+Random5_7_150,5161,7,150,10 states,8 symbols,2531,27,14,17,8,543,0,0,49.1195,600,600,62,593,7,538,0.90,0.10,0.99,0.20,0.50,0.50,0.5317982456140351,65.85,1324.39
+Random5_2_150,8637,2,150,10 states,8 symbols,2523,27,9,13,8,103,0,0,43.3997,600,600,84,592,8,516,0.91,0.14,0.99,0.20,0.60,0.60,0.7333333333333334,75.00,286.11
+Random5_6_150,9955,6,150,10 states,8 symbols,2529,29,11,14,8,95,0,0,45.6281,600,600,253,581,19,347,0.93,0.42,0.97,0.60,0.70,0.70,0.6141509433962264,72.50,237.50
+Random5_5_150,4407,5,150,10 states,8 symbols,2506,26,17,16,8,148,0,0,49.1964,600,600,66,583,17,534,0.80,0.11,0.97,0.20,0.50,0.50,0.5280172413793103,60.47,344.19
+Random5_8_150,6523,8,150,10 states,8 symbols,2510,31,6,13,8,338,0,0,40.4280,600,600,201,597,3,399,0.99,0.34,0.99,0.50,0.70,0.70,0.7492346938775509,83.78,913.51
+Random5_0_150,6481,0,150,10 states,8 symbols,2509,25,13,15,8,250,0,0,42.1798,600,600,72,592,8,528,0.90,0.12,0.99,0.20,0.60,0.60,0.6413461538461538,65.79,657.89
+Random5_3_150,9653,3,150,10 states,8 symbols,2507,29,14,17,8,216,0,0,40.0578,600,600,141,586,14,459,0.91,0.23,0.98,0.40,0.60,0.60,0.6502118644067797,67.44,502.33

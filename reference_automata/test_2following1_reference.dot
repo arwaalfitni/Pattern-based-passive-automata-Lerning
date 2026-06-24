@@ -1,0 +1,12 @@
+digraph Random1_Reference {
+	rankdir=LR;
+	node [shape=circle, style=filled, fillcolor=white];
+	"S1" [shape=doublecircle, isInitial=True];
+	"S2" [shape=doublecircle];
+	"S3" [shape=doublecircle];
+	"S1"->"S2" [label="a/1\nc/1"];
+    "S2"->"S2" [label="a/2"];
+    "S2"->"S3" [label="b/2"];
+    "S3"->"S1" [label="c/1"];
+    }
+

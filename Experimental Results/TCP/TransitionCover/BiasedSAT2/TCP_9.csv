@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),Number of colors used (automata_size),Number of SAT solver calls,Number of variables in the last SAT call,Number of clauses in the last SAT call,SAT result,Total time spent in SAT solver (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge
+TCP_2_9,6887,2,9,14 states,28 symbols,625,89,76,312,243,358530,,,567.5554,28,26,88641,3693929,TIMEOUT,4943.1740,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_9_9,250,9,9,14 states,28 symbols,625,89,76,312,243,358530,,,576.3825,28,26,88641,3693929,TIMEOUT,4926.1000,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_7_9,5209,7,9,14 states,28 symbols,625,89,76,312,243,358530,,,575.2055,28,26,88641,3693929,TIMEOUT,4932.5422,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_5_9,1923,5,9,14 states,28 symbols,625,89,76,312,243,358530,,,570.7859,27,26,88641,3693929,SAT,4700.4885,180,180,0,180,0,180,0.00,0.00,0.00,0.00,0.50,0.00,0.11538461538461539,53.94
+TCP_6_9,3237,6,9,14 states,28 symbols,625,89,76,312,243,358530,,,584.8954,28,26,88641,3693929,TIMEOUT,4945.9820,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_1_9,7193,1,9,14 states,28 symbols,625,89,76,312,243,358530,,,590.6115,28,26,88641,3693929,TIMEOUT,4963.4214,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_8_9,6797,8,9,14 states,28 symbols,625,89,76,312,243,358530,,,577.9182,28,26,88641,3693929,TIMEOUT,4929.1012,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_4_9,5450,4,9,14 states,28 symbols,625,89,76,312,243,358530,,,572.4064,28,26,88641,3693929,TIMEOUT,4927.1547,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_3_9,8776,3,9,14 states,28 symbols,625,89,76,312,243,358530,,,577.9230,28,26,88641,3693929,TIMEOUT,4896.4179,,,,,,,,-1,-1,-1,,-1,-1,53.94
+TCP_0_9,9654,0,9,14 states,28 symbols,625,89,76,312,243,358530,,,583.7650,28,26,88641,3693929,TIMEOUT,4954.4842,,,,,,,,-1,-1,-1,,-1,-1,53.94

@@ -1,0 +1,27 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "1" [fillcolor=red, shape=doublecircle];
+  "61" [fillcolor=red, shape=doublecircle];
+  "880" [fillcolor=red, shape=doublecircle];
+  "993" [fillcolor=red, shape=doublecircle];
+  "1033" [fillcolor=red, shape=doublecircle];
+  "1036" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "1" -> "1036" [label="WATER/2\nCLEAN/2"];
+  "1" -> "61" [label="BUTTON/1"];
+  "1" -> "1033" [label="POD/2"];
+  "61" -> "61" [label="CLEAN/1\nPOD/1\nBUTTON/1\nWATER/1"];
+  "880" -> "61" [label="BUTTON/1"];
+  "880" -> "880" [label="POD/2"];
+  "880" -> "1036" [label="CLEAN/2"];
+  "880" -> "1033" [label="WATER/2"];
+  "993" -> "1036" [label="CLEAN/2"];
+  "993" -> "61" [label="WATER/1\nPOD/1\nBUTTON/1"];
+  "1033" -> "1033" [label="POD/2\nWATER/2"];
+  "1033" -> "1036" [label="CLEAN/2"];
+  "1033" -> "993" [label="BUTTON/3"];
+  "1036" -> "1" [label="WATER/2"];
+  "1036" -> "1036" [label="CLEAN/2"];
+  "1036" -> "880" [label="POD/2"];
+  "1036" -> "61" [label="BUTTON/1"];
+}

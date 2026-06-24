@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random2_6_300,1871,6,300,12 states,12 symbols,6249,36,1,12,12,48,0,0,205.5104,1200,1200,1200,1179,21,0,0.98,1.0,0.98,1.0,1.0,1.0,0.9791666666666666,97.3,129.73
+Random2_2_300,8690,2,300,12 states,12 symbols,6222,39,5,16,12,114,0,0,303.4735,1200,1200,360,1190,10,840,0.97,0.3,0.99,0.5,0.6,0.6,0.7745409604519774,88.64,259.09
+Random2_5_300,8737,5,300,12 states,12 symbols,6242,36,1,12,12,71,0,0,399.4265,1200,1200,705,1195,5,495,0.99,0.59,1.0,0.7,0.8,0.8,0.9791666666666666,97.3,191.89
+Random2_9_300,3485,9,300,12 states,12 symbols,6212,39,0,13,12,28,0,0,266.8557,1200,1200,990,1200,0,210,1.0,0.82,1.0,0.9,0.9,0.9,0.9503676470588236,100.0,71.79
+Random2_0_300,9327,0,300,12 states,12 symbols,6257,38,1,13,12,62,0,0,240.882,1200,1200,1200,1166,34,0,0.97,1.0,0.97,1.0,1.0,1.0,0.9301470588235294,97.44,158.97
+Random2_4_300,8332,4,300,12 states,12 symbols,6221,37,1,13,12,11,0,0,250.3196,1200,1200,677,1196,4,523,0.99,0.56,1.0,0.7,0.8,0.8,0.9391666666666668,97.37,28.95
+Random2_3_300,9989,3,300,12 states,12 symbols,6157,36,1,12,12,77,0,0,296.172,1200,1200,670,1190,10,530,0.99,0.56,0.99,0.7,0.8,0.8,0.9791666666666666,97.3,208.11
+Random2_7_300,216,7,300,12 states,12 symbols,6197,39,1,14,12,113,0,0,290.7676,1200,1200,688,1184,16,512,0.98,0.57,0.99,0.7,0.8,0.8,0.8932783018867925,97.5,282.5
+Random2_1_300,2970,1,300,12 states,12 symbols,6208,37,0,12,12,61,0,0,243.3899,1200,1200,1200,1200,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,164.86
+Random2_8_300,7526,8,300,12 states,12 symbols,6209,39,0,13,12,78,0,0,251.9704,1200,1200,1009,1200,0,191,1.0,0.84,1.0,0.9,0.9,0.9,0.9503676470588236,100.0,200.0

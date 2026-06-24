@@ -1,0 +1,28 @@
+digraph Random1_Reference {
+	rankdir=LR;
+	node [shape=circle, style=filled, fillcolor=white];
+	"S1" [shape=doublecircle, isInitial=True];
+	"S2" [shape=doublecircle];
+	"S3" [shape=doublecircle];
+	"S4" [shape=doublecircle];
+	"S5" [shape=doublecircle];
+	"S7" [shape=doublecircle];
+	"S8" [shape=doublecircle];
+	"S1"->"S2" [label="L0/X"];
+    "S1"->"S5" [label="L1/X"];
+    "S1"->"S4" [label="L2/X"];
+    "S2"->"S3" [label="L2/X"];
+    "S2"->"S8" [label="L0/Y\nL1/Y"];
+    "S3"->"S1" [label="L0/X"];
+    "S3"->"S8" [label="L1/Y\nL2/Y"];
+    "S4"->"S3" [label="L1/X"];
+    "S4"->"S5" [label="L2/X"];
+    "S4"->"S7" [label="L0/X"];
+    "S5"->"S5" [label="L1/X"];
+    "S5"->"S1" [label="L2/X"];
+    "S5"->"S8" [label="L0/Y"];
+    "S7"->"S4" [label="L2/X"];
+    "S7"->"S8" [label="L0/Y\nL1/Y"];
+    "S8"->"S8" [label="L0/Y\nL1/Y\nL2/Y"];
+    }
+

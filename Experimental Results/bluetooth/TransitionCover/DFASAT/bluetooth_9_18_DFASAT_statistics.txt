@@ -1,0 +1,39 @@
+File: bluetooth
+Seed: 2581
+Trails: 9
+Number of walks: 18
+Size of reference graph: 15 states
+Alphabet_size: 15 symbols
+
+Size of actual model(APTA): 342
+Size of APTA after merging rejected states: 342
+Correct merges: 7
+Incorrect merges: 46
+Size of learned model(sicco_EDSM): 168
+Total time spent in EDSM (seconds): 3.5015
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 17
+Number of SAT solver calls: 16
+Number of variables in the last SAT call: 25126
+Number of clauses in the last SAT call: 730192
+SAT result: SAT
+Total time spent in SAT solver (seconds): 1129.1026
+Total time spent in SAT solver (seconds): 1129.1027
+
+
+Evaluation Report:
+number of Positive traces: 72
+number of Negative traces: 72
+True Positive: 0
+True Negative: 72
+False Positive: 0
+False Negative: 72
+Precision: 0.00
+Recall: 0.00
+Specificity: 0.00
+F-measure: 0.00
+Accuracy: 0.50
+BCR: 0.00
+Structural Difference: 0.09226190476190477

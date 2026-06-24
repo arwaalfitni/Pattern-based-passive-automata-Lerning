@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random1_4_25,7794,4,25,7 states,6 symbols,256,15,0,7,6,50,0,0,0.6924,100,100,100,100,0,0,1,1,1,1,1,1,1,100,333.33
+Random1_2_25,1249,2,25,7 states,6 symbols,256,14,5,10,6,21,0,0,0.5092,100,100,3,100,0,97,1,0.03,1,0.1,0.5,0.5,0.625,73.68,110.53
+Random1_1_25,9563,1,25,7 states,6 symbols,249,14,1,8,6,61,0,0,0.651,100,100,8,100,0,92,1,0.08,1,0.1,0.5,0.5,0.884199134199134,93.33,406.67
+Random1_0_25,8580,0,25,7 states,6 symbols,251,13,2,9,6,56,0,0,0.649,100,100,2,100,0,98,1,0.02,1,0,0.5,0.5,0.728778467908903,86.67,373.33
+Random1_5_25,6644,5,25,7 states,6 symbols,271,15,0,7,6,54,0,0,0.5916,100,100,100,100,0,0,1,1,1,1,1,1,1,100,360
+Random1_3_25,9917,3,25,7 states,6 symbols,250,13,3,8,6,41,0,0,0.7085,100,100,22,100,0,78,1,0.22,1,0.4,0.6,0.6,0.728778467908903,81.25,256.25
+Random1_6_25,4424,6,25,7 states,6 symbols,240,13,2,8,6,30,0,0,0.7065,100,100,5,100,0,95,1,0.05,1,0.1,0.5,0.5,0.837662337662338,86.67,200
+Random1_8_25,7796,8,25,7 states,6 symbols,257,14,1,7,6,60,0,0,0.6302,100,100,70,100,0,30,1,0.7,1,0.8,0.8,0.8,0.952380952380952,93.33,400
+Random1_9_25,509,9,25,7 states,6 symbols,260,16,0,8,6,54,0,0,1.263,100,100,100,100,0,0,1,1,1,1,1,1,0.910973084886128,100,337.5
+Random1_7_25,1335,7,25,7 states,6 symbols,253,11,2,7,6,23,0,0,0.4352,100,100,7,100,0,93,1,0.07,1,0.1,0.5,0.5,0.75187969924812,84.62,176.92

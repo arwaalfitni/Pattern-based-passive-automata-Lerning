@@ -1,0 +1,21 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "R1" [isInitial=True];
+  "R2" [];
+  "R3" [];
+  "B1" [];
+  "B2" [];
+  "B3" [];
+  "B4" [];
+  "B5" [];
+  "R1" -> "R2" [label="b/2"];
+  "R1" -> "R3" [label="a/1"];
+  "R2" -> "R2" [label="b/1"];
+  "R2" -> "R3" [label="a/2"];
+  "R2" -> "B1" [label="c/1"];
+  "R3" -> "B2" [label="a/1"];
+  "B1" -> "B3" [label="a/1"];
+  "B2" -> "B5" [label="b/2"];
+  "B3" -> "B4" [label="c/1"];
+}

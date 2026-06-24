@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+openSSL_9_4,8768,9,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.5232,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_2_4,180,2,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.5982,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_4_4,6940,4,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.5122,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_6_4,9758,6,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.5614,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_0_4,5989,0,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.6543,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_7_4,312,7,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,2.0255,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_8_4,7727,8,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.5318,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_5_4,3796,5,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.5903,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_3_4,6240,3,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.6403,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57
+openSSL_1_4,9292,1,4,6 states,20 symbols,153,51,5,22,18,3390,19,0,1.6287,112,112,0,112,0,112,0.0,0.0,0.0,0.0,0.5,0.0,0.1287878787878787,91.07,6053.57

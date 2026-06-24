@@ -1,0 +1,1028 @@
+Exploration Map
+==============================
+Event: ApplicationData/1
+  Followed by:
+    ApplicationDataEmpty/1: 15.36%
+    EmptyCertificate/1: 12.29%
+    Finished/1: 13.65%
+    ClientKeyExchange/1: 13.77%
+    ChangeCipherSpec/1: 14.45%
+    ApplicationData/1: 14.22%
+    ClientHelloRSA/1: 12.97%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 14.39%
+------------------------------
+Event: EmptyCertificate/1
+  Followed by:
+    EmptyCertificate/1: 13.11%
+    ApplicationData/1: 16.36%
+    ClientKeyExchange/1: 13.92%
+    ClientHelloRSA/1: 14.5%
+    ChangeCipherSpec/1: 13.81%
+    Finished/1: 12.06%
+    ApplicationDataEmpty/1: 16.01%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 14.11%
+------------------------------
+Event: EmptyCertificate/4
+  Followed by:
+    ChangeCipherSpec/1: 42.86%
+    ApplicationDataEmpty/1: 42.86%
+    EmptyCertificate/1: 14.29%
+    ApplicationData/1: 14.29%
+    ClientHelloRSA/1: 28.57%
+    Finished/1: 57.14%
+    ClientKeyExchange/1: 14.29%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.11%
+------------------------------
+Event: ClientKeyExchange/4
+  Followed by:
+    EmptyCertificate/1: 33.33%
+    ClientKeyExchange/1: 33.33%
+    ApplicationData/1: 33.33%
+    ApplicationDataEmpty/1: 33.33%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientHelloRSA/1
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    Finished/1
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ChangeCipherSpec/1
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ApplicationDataEmpty/1
+  Followed by:
+    ClientHelloRSA/1: 11.9%
+    ChangeCipherSpec/1: 12.12%
+    ClientKeyExchange/1: 15.72%
+    EmptyCertificate/1: 15.17%
+    ApplicationData/1: 14.3%
+    ApplicationDataEmpty/1: 15.07%
+    Finished/1: 15.07%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 14.99%
+------------------------------
+Event: ClientHelloRSA/1
+  Followed by:
+    EmptyCertificate/1: 14.96%
+    ApplicationData/1: 13.66%
+    ChangeCipherSpec/1: 13.66%
+    Finished/1: 13.9%
+    ApplicationDataEmpty/1: 14.25%
+    ClientHelloRSA/1: 15.56%
+    ClientKeyExchange/1: 13.42%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 13.78%
+------------------------------
+Event: ChangeCipherSpec/4
+  Followed by:
+    ApplicationDataEmpty/1: 40.0%
+    Finished/1: 40.0%
+    ClientKeyExchange/1: 20.0%
+    EmptyCertificate/1: 20.0%
+    ClientHelloRSA/1: 20.0%
+    ChangeCipherSpec/1: 40.0%
+    ApplicationData/1: 40.0%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.08%
+------------------------------
+Event: Finished/4
+  Followed by:
+    EmptyCertificate/1: 28.57%
+    Finished/1: 14.29%
+    ChangeCipherSpec/1: 42.86%
+    ApplicationDataEmpty/1: 14.29%
+    ClientHelloRSA/1: 57.14%
+    ClientKeyExchange/1: 28.57%
+    ApplicationData/1: 14.29%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.11%
+------------------------------
+Event: ChangeCipherSpec/2
+  Followed by:
+    ClientKeyExchange/1: 25.0%
+    ApplicationDataEmpty/1: 25.0%
+    ApplicationData/1: 25.0%
+    ClientHelloRSA/1: 25.0%
+    ChangeCipherSpec/1: 25.0%
+    EmptyCertificate/1: 25.0%
+    Finished/1: 25.0%
+    ApplicationDataEmpty/2: 25.0%
+    ClientHelloRSA/4: 25.0%
+    Finished/5: 75.0%
+    ChangeCipherSpec/4: 50.0%
+    ApplicationData/4: 25.0%
+    ClientKeyExchange/4: 25.0%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.07%
+------------------------------
+Event: ApplicationData/6
+  Followed by:
+    ApplicationDataEmpty/1: 50.0%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    ApplicationData/1
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    EmptyCertificate/1
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientHelloRSA/1
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    Finished/1
+    ClientHelloRSA/4
+    ClientKeyExchange/1
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ChangeCipherSpec/1
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.03%
+------------------------------
+Event: Finished/1
+  Followed by:
+    ClientKeyExchange/1: 13.57%
+    ChangeCipherSpec/1: 14.76%
+    ClientHelloRSA/1: 12.26%
+    ApplicationData/1: 13.33%
+    ApplicationDataEmpty/1: 15.83%
+    EmptyCertificate/1: 15.0%
+    Finished/1: 13.57%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 13.75%
+------------------------------
+Event: ClientHelloRSA/4
+  Followed by:
+    Finished/1: 16.67%
+    ChangeCipherSpec/1: 16.67%
+    EmptyCertificate/1: 66.67%
+    ClientKeyExchange/1: 33.33%
+    ClientHelloRSA/1: 33.33%
+    ApplicationDataEmpty/1: 33.33%
+    ApplicationData/1: 16.67%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ClientKeyExchange/1
+  Followed by:
+    ClientKeyExchange/1: 14.22%
+    ApplicationDataEmpty/1: 15.12%
+    EmptyCertificate/1: 13.21%
+    ClientHelloRSA/1: 13.88%
+    ChangeCipherSpec/1: 12.98%
+    ApplicationData/1: 15.24%
+    Finished/1: 13.88%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 14.5%
+------------------------------
+Event: ApplicationData/4
+  Followed by:
+    EmptyCertificate/1: 75.0%
+    ChangeCipherSpec/1: 25.0%
+    Finished/1: 25.0%
+    ClientHelloRSA/1: 50.0%
+    ApplicationData/1: 25.0%
+    ApplicationDataEmpty/1: 75.0%
+    ClientKeyExchange/1: 25.0%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.07%
+------------------------------
+Event: ChangeCipherSpec/1
+  Followed by:
+    Finished/1: 13.58%
+    ApplicationData/1: 13.34%
+    ApplicationDataEmpty/1: 12.38%
+    ClientHelloRSA/1: 15.02%
+    ClientKeyExchange/1: 16.59%
+    EmptyCertificate/1: 14.3%
+    ChangeCipherSpec/1: 13.22%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    ApplicationDataEmpty/5
+    EmptyCertificate/4
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    Finished/4
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    ClientHelloRSA/4
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    ApplicationDataEmpty/2
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 13.62%
+------------------------------
+Event: ClientHelloRSA/3
+  Followed by:
+    Finished/4: 100.0%
+    ApplicationDataEmpty/2: 100.0%
+    ClientHelloRSA/4: 100.0%
+    ApplicationData/4: 100.0%
+    ClientKeyExchange/2: 100.0%
+    EmptyCertificate/4: 100.0%
+    ChangeCipherSpec/4: 100.0%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    ApplicationData/1
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    EmptyCertificate/1
+    ApplicationDataEmpty/5
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationDataEmpty/1
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientHelloRSA/1
+    ClientKeyExchange/3
+    ClientKeyExchange/6
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    ApplicationData/6
+    EmptyCertificate/2
+    Finished/1
+    ClientKeyExchange/1
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ChangeCipherSpec/1
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    Finished/7
+Percentage_of_appearance: 0.02%
+------------------------------
+Event: Finished/5
+  Followed by:
+    EmptyCertificate/4: 33.33%
+    ClientHelloRSA/7: 33.33%
+    ClientKeyExchange/4: 33.33%
+    ApplicationDataEmpty/2: 66.67%
+    Finished/4: 33.33%
+    ApplicationData/6: 33.33%
+    ChangeCipherSpec/4: 33.33%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    ApplicationData/1
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    EmptyCertificate/1
+    ApplicationDataEmpty/5
+    ApplicationDataEmpty/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationDataEmpty/1
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientHelloRSA/1
+    ClientKeyExchange/3
+    ClientKeyExchange/6
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ChangeCipherSpec/2
+    EmptyCertificate/2
+    Finished/1
+    ClientHelloRSA/4
+    ClientKeyExchange/1
+    ApplicationData/4
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ChangeCipherSpec/1
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ApplicationDataEmpty/2
+  Followed by:
+    Finished/4: 28.57%
+    ClientKeyExchange/2: 28.57%
+    ApplicationDataEmpty/2: 28.57%
+    ClientHelloRSA/4: 28.57%
+    EmptyCertificate/4: 42.86%
+    ApplicationData/4: 14.29%
+    ChangeCipherSpec/2: 14.29%
+    ApplicationData/6: 14.29%
+    ChangeCipherSpec/4: 14.29%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    ApplicationData/1
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    EmptyCertificate/1
+    ApplicationDataEmpty/5
+    ClientKeyExchange/4
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationDataEmpty/1
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientHelloRSA/1
+    ClientKeyExchange/3
+    ClientKeyExchange/6
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    EmptyCertificate/2
+    Finished/1
+    ClientKeyExchange/1
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ChangeCipherSpec/1
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    Finished/7
+Percentage_of_appearance: 0.11%
+------------------------------
+Event: ClientKeyExchange/2
+  Followed by:
+    ApplicationData/4: 33.33%
+    ClientKeyExchange/4: 33.33%
+    ClientHelloRSA/4: 66.67%
+    ApplicationDataEmpty/2: 33.33%
+    Finished/4: 100.0%
+    ChangeCipherSpec/2: 66.67%
+    EmptyCertificate/4: 66.67%
+  Not followed by:
+    ApplicationData/5
+    ChangeCipherSpec/6
+    Finished/2
+    ApplicationData/7
+    Finished/3
+    ClientHelloRSA/5
+    ApplicationDataEmpty/6
+    ApplicationData/1
+    EmptyCertificate/3
+    ChangeCipherSpec/7
+    ClientKeyExchange/5
+    EmptyCertificate/1
+    ApplicationDataEmpty/5
+    ApplicationDataEmpty/7
+    ClientHelloRSA/7
+    ApplicationDataEmpty/4
+    ClientHelloRSA/2
+    EmptyCertificate/6
+    ApplicationDataEmpty/1
+    ApplicationData/2
+    Finished/6
+    ApplicationDataEmpty/3
+    EmptyCertificate/7
+    ClientHelloRSA/1
+    ClientKeyExchange/3
+    ChangeCipherSpec/4
+    ClientKeyExchange/6
+    EmptyCertificate/5
+    ChangeCipherSpec/3
+    ApplicationData/6
+    EmptyCertificate/2
+    Finished/1
+    ClientKeyExchange/1
+    ChangeCipherSpec/5
+    ClientKeyExchange/7
+    ChangeCipherSpec/1
+    ClientHelloRSA/6
+    ApplicationData/3
+    ClientHelloRSA/3
+    Finished/5
+    Finished/7
+    ClientKeyExchange/2
+Percentage_of_appearance: 0.05%
+------------------------------

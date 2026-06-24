@@ -1,0 +1,138 @@
+Exploration Map
+==============================
+Event: CLEAN/1
+  Followed by:
+    BUTTON/1: 27.53%
+    WATER/1: 24.16%
+    POD/1: 24.72%
+    CLEAN/1: 20.22%
+  Not followed by:
+    BUTTON/2
+    POD/2
+    POD/3
+    CLEAN/3
+    CLEAN/2
+    BUTTON/3
+    WATER/2
+    WATER/3
+Percentage_of_appearance: 17.69%
+------------------------------
+Event: POD/1
+  Followed by:
+    CLEAN/1: 19.14%
+    WATER/1: 25.36%
+    POD/1: 20.57%
+    BUTTON/1: 24.4%
+  Not followed by:
+    BUTTON/2
+    POD/2
+    POD/3
+    CLEAN/3
+    CLEAN/2
+    BUTTON/3
+    WATER/2
+    WATER/3
+Percentage_of_appearance: 20.78%
+------------------------------
+Event: WATER/1
+  Followed by:
+    BUTTON/1: 22.84%
+    WATER/1: 23.35%
+    POD/1: 22.34%
+    CLEAN/1: 24.87%
+  Not followed by:
+    BUTTON/2
+    POD/2
+    POD/3
+    CLEAN/3
+    CLEAN/2
+    BUTTON/3
+    WATER/2
+    WATER/3
+Percentage_of_appearance: 19.58%
+------------------------------
+Event: POD/2
+  Followed by:
+    POD/2: 29.09%
+    CLEAN/2: 23.64%
+    WATER/2: 41.82%
+    BUTTON/1: 12.73%
+    BUTTON/3: 10.91%
+  Not followed by:
+    CLEAN/1
+    POD/1
+    WATER/1
+    BUTTON/2
+    POD/3
+    CLEAN/3
+    WATER/3
+Percentage_of_appearance: 5.47%
+------------------------------
+Event: CLEAN/2
+  Followed by:
+    BUTTON/1: 40.82%
+    POD/2: 36.73%
+    WATER/2: 26.53%
+    CLEAN/2: 22.45%
+  Not followed by:
+    CLEAN/1
+    POD/1
+    WATER/1
+    BUTTON/2
+    POD/3
+    CLEAN/3
+    BUTTON/3
+    WATER/3
+Percentage_of_appearance: 4.87%
+------------------------------
+Event: BUTTON/3
+  Followed by:
+    CLEAN/2: 38.89%
+    WATER/1: 27.78%
+    BUTTON/1: 22.22%
+    POD/1: 33.33%
+  Not followed by:
+    CLEAN/1
+    BUTTON/2
+    POD/2
+    POD/3
+    CLEAN/3
+    BUTTON/3
+    WATER/2
+    WATER/3
+Percentage_of_appearance: 1.79%
+------------------------------
+Event: WATER/2
+  Followed by:
+    WATER/2: 27.45%
+    POD/2: 39.22%
+    CLEAN/2: 33.33%
+    BUTTON/1: 9.8%
+    BUTTON/3: 23.53%
+  Not followed by:
+    CLEAN/1
+    POD/1
+    WATER/1
+    BUTTON/2
+    POD/3
+    CLEAN/3
+    WATER/3
+Percentage_of_appearance: 5.07%
+------------------------------
+Event: BUTTON/1
+  Followed by:
+    POD/1: 28.92%
+    WATER/1: 20.08%
+    CLEAN/1: 21.29%
+    BUTTON/1: 26.91%
+  Not followed by:
+    BUTTON/2
+    POD/2
+    POD/3
+    CLEAN/3
+    CLEAN/2
+    BUTTON/3
+    WATER/2
+    WATER/3
+Percentage_of_appearance: 24.75%
+------------------------------

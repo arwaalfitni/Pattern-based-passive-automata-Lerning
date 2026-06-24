@@ -1,0 +1,9704 @@
+Exploration Map
+==============================
+Event: ('feature_rsp/2', 'mtu_req/9')
+  Followed by:
+    length_req/3: 66.67%
+    version_req/6: 33.33%
+    feature_req/1: 66.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/2', 'pairing_req/10')
+  Followed by:
+    length_req/3: 50.0%
+    feature_req/1: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/2', 'feature_rsp/5')
+  Followed by:
+    mtu_req/9: 50.0%
+    length_req/3: 25.0%
+    length_rsp/5: 25.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('feature_rsp/2', 'feature_req/1')
+  Followed by:
+    feature_req/1: 50.0%
+    version_req/5: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/2', 'version_req/6')
+  Followed by:
+    length_req/3: 33.33%
+    pairing_req/10: 66.67%
+    feature_req/1: 33.33%
+    length_rsp/5: 33.33%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/2', 'length_rsp/5')
+  Followed by:
+    pairing_req/10: 25.0%
+    length_req/3: 50.0%
+    pairing_req/5: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('mtu_req/5', 'length_req/3')
+  Followed by:
+    feature_req/1: 14.29%
+    pairing_req/5: 28.57%
+    length_req/3: 14.29%
+    length_rsp/4: 14.29%
+    mtu_req/5: 14.29%
+    feature_rsp/8: 14.29%
+    feature_rsp/11: 28.57%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.35%
+------------------------------
+Event: ('mtu_req/5', 'length_rsp/4')
+  Followed by:
+    pairing_req/5: 25.0%
+    version_req/6: 25.0%
+    length_rsp/4: 25.0%
+    version_req/5: 12.5%
+    feature_req/1: 12.5%
+    feature_rsp/8: 12.5%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.4%
+------------------------------
+Event: ('mtu_req/5', 'mtu_req/5')
+  Followed by:
+    mtu_req/5: 25.0%
+    feature_req/1: 50.0%
+    pairing_req/5: 25.0%
+    version_req/5: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('mtu_req/5', 'feature_rsp/8')
+  Followed by:
+    mtu_req/9: 16.67%
+    feature_req/1: 33.33%
+    length_rsp/5: 33.33%
+    version_req/5: 16.67%
+    pairing_req/10: 16.67%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('mtu_req/5', 'feature_req/1')
+  Followed by:
+    mtu_req/5: 16.67%
+    feature_rsp/8: 33.33%
+    length_rsp/4: 33.33%
+    version_req/6: 16.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('mtu_req/5', 'version_req/6')
+  Followed by:
+    version_req/5: 33.33%
+    pairing_req/5: 33.33%
+    length_rsp/4: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('mtu_req/5', 'pairing_req/5')
+  Followed by:
+    mtu_req/5: 16.67%
+    feature_req/1: 16.67%
+    pairing_req/5: 33.33%
+    version_req/5: 16.67%
+    length_req/3: 16.67%
+    length_rsp/4: 16.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('length_rsp/4', 'pairing_req/5')
+  Followed by:
+    feature_rsp/7: 3.23%
+    length_req/3: 22.58%
+    mtu_req/5: 3.23%
+    length_rsp/4: 22.58%
+    pairing_req/5: 19.35%
+    feature_req/1: 16.13%
+    feature_rsp/5: 6.45%
+    mtu_req/9: 3.23%
+    version_req/5: 3.23%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.55%
+------------------------------
+Event: ('length_rsp/4', 'feature_req/1')
+  Followed by:
+    feature_rsp/2: 4.35%
+    length_req/3: 8.7%
+    feature_req/1: 13.04%
+    version_req/5: 8.7%
+    feature_rsp/5: 26.09%
+    mtu_req/5: 4.35%
+    length_rsp/4: 8.7%
+    pairing_req/5: 13.04%
+    version_req/6: 4.35%
+    mtu_req/9: 4.35%
+    feature_rsp/8: 4.35%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.15%
+------------------------------
+Event: ('length_rsp/4', 'length_req/3')
+  Followed by:
+    pairing_req/5: 13.51%
+    mtu_req/5: 5.41%
+    length_rsp/4: 16.22%
+    feature_req/1: 8.11%
+    feature_rsp/8: 10.81%
+    version_req/6: 5.41%
+    length_req/3: 8.11%
+    mtu_req/9: 5.41%
+    version_req/5: 8.11%
+    feature_rsp/5: 10.81%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.85%
+------------------------------
+Event: ('length_rsp/4', 'length_rsp/4')
+  Followed by:
+    pairing_req/5: 8.82%
+    length_rsp/4: 20.59%
+    length_req/3: 11.76%
+    feature_rsp/11: 5.88%
+    version_req/6: 5.88%
+    mtu_req/9: 8.82%
+    feature_req/1: 14.71%
+    feature_rsp/5: 14.71%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.7%
+------------------------------
+Event: ('length_rsp/4', 'feature_rsp/2')
+  Followed by:
+    length_req/3: 33.33%
+    version_req/6: 33.33%
+    length_rsp/5: 33.33%
+    feature_rsp/5: 33.33%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('length_rsp/4', 'mtu_req/5')
+  Followed by:
+    length_rsp/4: 22.22%
+    feature_rsp/8: 44.44%
+    mtu_req/5: 11.11%
+    length_req/3: 11.11%
+    feature_rsp/11: 22.22%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.45%
+------------------------------
+Event: ('version_req/6', 'length_req/3')
+  Followed by:
+    feature_rsp/2: 7.14%
+    mtu_req/9: 7.14%
+    pairing_req/5: 14.29%
+    length_rsp/4: 21.43%
+    feature_req/1: 14.29%
+    version_req/5: 21.43%
+    length_req/3: 14.29%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.7%
+------------------------------
+Event: ('version_req/6', 'pairing_req/5')
+  Followed by:
+    feature_req/1: 50.0%
+    feature_rsp/5: 25.0%
+    length_req/3: 12.5%
+    mtu_req/9: 12.5%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.4%
+------------------------------
+Event: ('version_req/6', 'length_rsp/4')
+  Followed by:
+    length_req/3: 42.86%
+    feature_req/1: 14.29%
+    feature_rsp/2: 14.29%
+    length_rsp/4: 14.29%
+    pairing_req/5: 14.29%
+    feature_rsp/11: 14.29%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.35%
+------------------------------
+Event: ('version_req/6', 'feature_rsp/2')
+  Followed by:
+    feature_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('version_req/6', 'mtu_req/5')
+  Followed by:
+    length_rsp/4: 50.0%
+    pairing_req/5: 25.0%
+    mtu_req/5: 25.0%
+    feature_req/1: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('version_req/6', 'feature_req/1')
+  Followed by:
+    mtu_req/5: 9.09%
+    feature_rsp/2: 9.09%
+    feature_rsp/7: 9.09%
+    pairing_req/10: 18.18%
+    length_rsp/4: 9.09%
+    length_req/3: 9.09%
+    pairing_req/5: 9.09%
+    feature_req/1: 9.09%
+    feature_rsp/5: 9.09%
+    mtu_req/9: 9.09%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.55%
+------------------------------
+Event: ('feature_req/1', 'length_req/3')
+  Followed by:
+    version_req/6: 6.06%
+    feature_rsp/7: 6.06%
+    feature_req/1: 24.24%
+    feature_rsp/5: 6.06%
+    length_req/3: 18.18%
+    version_req/5: 15.15%
+    pairing_req/10: 9.09%
+    pairing_req/5: 6.06%
+    length_rsp/4: 9.09%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.65%
+------------------------------
+Event: ('feature_req/1', 'version_req/6')
+  Followed by:
+    feature_req/1: 33.33%
+    version_req/5: 22.22%
+    mtu_req/5: 11.11%
+    length_req/3: 22.22%
+    length_rsp/4: 11.11%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.45%
+------------------------------
+Event: ('feature_req/1', 'pairing_req/5')
+  Followed by:
+    feature_req/1: 9.52%
+    version_req/6: 4.76%
+    length_req/3: 47.62%
+    mtu_req/9: 9.52%
+    pairing_req/5: 14.29%
+    feature_rsp/11: 4.76%
+    length_rsp/4: 4.76%
+    version_req/5: 4.76%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.05%
+------------------------------
+Event: ('feature_req/1', 'feature_rsp/2')
+  Followed by:
+    mtu_req/9: 40.0%
+    version_req/6: 20.0%
+    length_rsp/5: 20.0%
+    feature_rsp/5: 20.0%
+    version_req/5: 20.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.25%
+------------------------------
+Event: ('pairing_req/5', 'length_rsp/4')
+  Followed by:
+    mtu_req/5: 8.0%
+    version_req/6: 4.0%
+    length_req/3: 16.0%
+    mtu_req/9: 8.0%
+    pairing_req/5: 24.0%
+    feature_rsp/5: 8.0%
+    length_rsp/4: 20.0%
+    feature_rsp/7: 4.0%
+    feature_req/1: 4.0%
+    version_req/5: 4.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.25%
+------------------------------
+Event: ('pairing_req/5', 'feature_req/1')
+  Followed by:
+    length_rsp/4: 15.09%
+    mtu_req/5: 3.77%
+    feature_req/1: 13.21%
+    length_req/3: 9.43%
+    version_req/6: 3.77%
+    version_req/5: 22.64%
+    length_rsp/5: 1.89%
+    pairing_req/5: 3.77%
+    mtu_req/9: 15.09%
+    feature_rsp/5: 9.43%
+    feature_rsp/11: 1.89%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.64%
+------------------------------
+Event: ('pairing_req/5', 'feature_rsp/7')
+  Followed by:
+    length_req/3: 33.33%
+    feature_req/1: 66.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('pairing_req/5', 'length_req/3')
+  Followed by:
+    mtu_req/5: 4.08%
+    length_req/3: 6.12%
+    feature_rsp/11: 2.04%
+    feature_rsp/5: 14.29%
+    version_req/5: 12.24%
+    feature_req/1: 10.2%
+    pairing_req/5: 18.37%
+    length_rsp/4: 18.37%
+    length_rsp/5: 2.04%
+    mtu_req/9: 6.12%
+    feature_rsp/7: 2.04%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.45%
+------------------------------
+Event: ('pairing_req/5', 'version_req/6')
+  Followed by:
+    feature_req/1: 18.18%
+    feature_rsp/7: 18.18%
+    pairing_req/5: 18.18%
+    feature_rsp/5: 9.09%
+    mtu_req/9: 18.18%
+    length_req/3: 18.18%
+    length_rsp/4: 9.09%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.55%
+------------------------------
+Event: ('pairing_req/5', 'pairing_req/5')
+  Followed by:
+    pairing_req/5: 19.44%
+    length_rsp/4: 13.89%
+    length_req/3: 13.89%
+    feature_req/1: 11.11%
+    feature_rsp/7: 2.78%
+    version_req/5: 5.56%
+    mtu_req/9: 8.33%
+    version_req/6: 11.11%
+    feature_rsp/5: 11.11%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.8%
+------------------------------
+Event: ('length_req/3', 'feature_req/1')
+  Followed by:
+    feature_req/1: 14.63%
+    version_req/6: 4.88%
+    feature_rsp/5: 21.95%
+    mtu_req/9: 2.44%
+    pairing_req/5: 2.44%
+    length_req/3: 17.07%
+    version_req/5: 12.2%
+    length_rsp/5: 4.88%
+    length_rsp/4: 7.32%
+    feature_rsp/7: 2.44%
+    feature_rsp/2: 2.44%
+    pairing_req/10: 2.44%
+    mtu_req/5: 2.44%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.05%
+------------------------------
+Event: ('length_req/3', 'length_req/3')
+  Followed by:
+    mtu_req/5: 5.26%
+    length_rsp/4: 13.16%
+    version_req/6: 2.63%
+    pairing_req/5: 21.05%
+    length_req/3: 10.53%
+    feature_req/1: 21.05%
+    length_rsp/5: 2.63%
+    version_req/5: 13.16%
+    feature_rsp/5: 10.53%
+    mtu_req/9: 7.89%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.9%
+------------------------------
+Event: ('length_req/3', 'pairing_req/5')
+  Followed by:
+    pairing_req/5: 11.63%
+    length_req/3: 20.93%
+    feature_req/1: 37.21%
+    length_rsp/4: 4.65%
+    mtu_req/5: 4.65%
+    feature_rsp/5: 9.3%
+    feature_rsp/11: 2.33%
+    mtu_req/9: 4.65%
+    length_rsp/5: 2.33%
+    version_req/5: 2.33%
+    version_req/6: 2.33%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.15%
+------------------------------
+Event: ('length_req/3', 'mtu_req/5')
+  Followed by:
+    length_req/3: 12.5%
+    version_req/6: 25.0%
+    feature_rsp/11: 12.5%
+    version_req/5: 12.5%
+    feature_rsp/8: 12.5%
+    length_rsp/4: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.4%
+------------------------------
+Event: ('length_req/3', 'version_req/6')
+  Followed by:
+    length_rsp/4: 25.0%
+    version_req/5: 25.0%
+    length_req/3: 25.0%
+    feature_req/1: 12.5%
+    mtu_req/5: 12.5%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.4%
+------------------------------
+Event: ('mtu_req/9', 'length_req/3')
+  Followed by:
+    feature_rsp/5: 22.22%
+    length_req/3: 18.52%
+    pairing_req/5: 11.11%
+    pairing_req/10: 3.7%
+    version_req/6: 3.7%
+    mtu_req/9: 18.52%
+    version_req/5: 7.41%
+    feature_req/1: 11.11%
+    length_rsp/4: 3.7%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.35%
+------------------------------
+Event: ('mtu_req/9', 'version_req/6')
+  Followed by:
+    version_req/5: 50.0%
+    feature_req/1: 25.0%
+    pairing_req/5: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('mtu_req/9', 'feature_req/1')
+  Followed by:
+    pairing_req/10: 2.7%
+    length_rsp/4: 13.51%
+    length_rsp/5: 10.81%
+    feature_rsp/5: 8.11%
+    feature_req/1: 16.22%
+    pairing_req/5: 10.81%
+    version_req/5: 13.51%
+    length_req/3: 13.51%
+    mtu_req/9: 5.41%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.85%
+------------------------------
+Event: ('pairing_req/10', 'length_req/3')
+  Followed by:
+    length_req/3: 33.33%
+    length_rsp/5: 16.67%
+    mtu_req/9: 33.33%
+    feature_req/1: 16.67%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('pairing_req/10', 'feature_req/1')
+  Followed by:
+    pairing_req/5: 16.67%
+    length_rsp/5: 16.67%
+    feature_rsp/5: 16.67%
+    feature_req/1: 50.0%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('feature_rsp/5', 'mtu_req/9')
+  Followed by:
+    pairing_req/10: 3.85%
+    version_req/5: 11.54%
+    length_rsp/5: 7.69%
+    feature_req/1: 19.23%
+    length_req/3: 7.69%
+    mtu_req/9: 3.85%
+    pairing_req/5: 11.54%
+    length_rsp/4: 19.23%
+    feature_rsp/5: 11.54%
+    version_req/6: 3.85%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.3%
+------------------------------
+Event: ('feature_req/1', 'feature_req/1')
+  Followed by:
+    length_req/3: 11.63%
+    feature_req/1: 16.28%
+    pairing_req/5: 4.65%
+    feature_rsp/5: 11.63%
+    version_req/5: 9.3%
+    length_rsp/4: 16.28%
+    mtu_req/9: 13.95%
+    version_req/6: 2.33%
+    length_rsp/5: 11.63%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.15%
+------------------------------
+Event: ('version_req/6', 'pairing_req/10')
+  Followed by:
+    mtu_req/9: 50.0%
+    pairing_req/5: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('length_rsp/5', 'pairing_req/10')
+  Followed by:
+    length_rsp/4: 50.0%
+    mtu_req/9: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('length_req/3', 'feature_rsp/5')
+  Followed by:
+    feature_req/1: 13.51%
+    version_req/6: 5.41%
+    mtu_req/9: 13.51%
+    version_req/5: 8.11%
+    length_rsp/4: 10.81%
+    length_rsp/5: 5.41%
+    length_req/3: 8.11%
+    feature_rsp/5: 13.51%
+    pairing_req/5: 13.51%
+    pairing_req/10: 2.7%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.85%
+------------------------------
+Event: ('version_req/6', 'version_req/5')
+  Followed by:
+    length_req/3: 22.22%
+    mtu_req/5: 22.22%
+    length_rsp/4: 22.22%
+    version_req/5: 11.11%
+    feature_req/1: 11.11%
+    pairing_req/5: 11.11%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.45%
+------------------------------
+Event: ('feature_req/1', 'pairing_req/10')
+  Followed by:
+    mtu_req/9: 20.0%
+    feature_rsp/5: 20.0%
+    length_rsp/5: 20.0%
+    length_req/3: 20.0%
+    feature_req/1: 20.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.25%
+------------------------------
+Event: ('feature_rsp/5', 'feature_req/1')
+  Followed by:
+    pairing_req/10: 3.33%
+    mtu_req/9: 13.33%
+    length_rsp/4: 13.33%
+    feature_req/1: 6.67%
+    version_req/5: 16.67%
+    length_req/3: 13.33%
+    pairing_req/5: 13.33%
+    feature_rsp/5: 10.0%
+    length_rsp/5: 3.33%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.5%
+------------------------------
+Event: ('pairing_req/10', 'feature_rsp/5')
+  Followed by:
+    length_rsp/5: 50.0%
+    version_req/6: 50.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/5', 'length_rsp/5')
+  Followed by:
+    length_req/3: 9.09%
+    version_req/5: 36.36%
+    length_rsp/4: 9.09%
+    feature_rsp/5: 9.09%
+    feature_req/1: 18.18%
+    pairing_req/5: 9.09%
+    mtu_req/9: 9.09%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.55%
+------------------------------
+Event: ('length_rsp/5', 'length_req/3')
+  Followed by:
+    feature_rsp/5: 15.38%
+    version_req/5: 30.77%
+    feature_req/1: 23.08%
+    pairing_req/10: 7.69%
+    length_rsp/4: 7.69%
+    mtu_req/9: 7.69%
+    version_req/6: 7.69%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.65%
+------------------------------
+Event: ('feature_rsp/5', 'version_req/6')
+  Followed by:
+    mtu_req/9: 16.67%
+    pairing_req/5: 33.33%
+    version_req/5: 16.67%
+    feature_req/1: 16.67%
+    length_req/3: 16.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('version_req/6', 'mtu_req/9')
+  Followed by:
+    version_req/5: 33.33%
+    length_req/3: 33.33%
+    mtu_req/9: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('mtu_req/9', 'version_req/5')
+  Followed by:
+    feature_req/1: 11.76%
+    length_req/3: 29.41%
+    pairing_req/5: 17.65%
+    mtu_req/9: 17.65%
+    length_rsp/4: 5.88%
+    feature_rsp/5: 11.76%
+    version_req/5: 5.88%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.85%
+------------------------------
+Event: ('version_req/5', 'feature_req/1')
+  Followed by:
+    length_rsp/4: 29.03%
+    length_rsp/5: 3.23%
+    feature_rsp/5: 16.13%
+    feature_req/1: 16.13%
+    mtu_req/9: 9.68%
+    length_req/3: 9.68%
+    version_req/5: 6.45%
+    feature_rsp/2: 3.23%
+    pairing_req/5: 3.23%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.55%
+------------------------------
+Event: ('feature_req/1', 'length_rsp/4')
+  Followed by:
+    version_req/5: 6.98%
+    length_req/3: 18.6%
+    pairing_req/5: 18.6%
+    feature_rsp/7: 2.33%
+    length_rsp/4: 16.28%
+    mtu_req/5: 2.33%
+    feature_req/1: 4.65%
+    mtu_req/9: 18.6%
+    feature_rsp/5: 2.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.15%
+------------------------------
+Event: ('feature_rsp/8', 'mtu_req/9')
+  Followed by:
+    feature_rsp/5: 50.0%
+    pairing_req/10: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/8', 'feature_req/1')
+  Followed by:
+    version_req/6: 33.33%
+    mtu_req/9: 66.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_req/1', 'mtu_req/5')
+  Followed by:
+    pairing_req/5: 16.67%
+    length_req/3: 33.33%
+    feature_req/1: 16.67%
+    feature_rsp/11: 16.67%
+    length_rsp/4: 16.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('pairing_req/5', 'mtu_req/5')
+  Followed by:
+    length_req/3: 25.0%
+    feature_rsp/11: 50.0%
+    pairing_req/5: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('version_req/5', 'mtu_req/5')
+  Followed by:
+    pairing_req/5: 33.33%
+    feature_req/1: 33.33%
+    length_req/3: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('length_req/3', 'feature_rsp/11')
+  Followed by:
+    length_req/3: 33.33%
+    length_rsp/5: 33.33%
+    mtu_req/9: 33.33%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/11', 'length_req/3')
+  Followed by:
+    version_req/5: 50.0%
+    length_rsp/5: 50.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('length_req/3', 'version_req/5')
+  Followed by:
+    feature_req/1: 24.39%
+    version_req/5: 24.39%
+    feature_rsp/5: 14.63%
+    length_req/3: 12.2%
+    mtu_req/9: 12.2%
+    length_rsp/4: 4.88%
+    pairing_req/5: 4.88%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.05%
+------------------------------
+Event: ('feature_req/1', 'length_rsp/5')
+  Followed by:
+    pairing_req/5: 6.25%
+    feature_rsp/5: 6.25%
+    length_rsp/4: 25.0%
+    version_req/5: 12.5%
+    feature_req/1: 12.5%
+    mtu_req/9: 12.5%
+    length_req/3: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.8%
+------------------------------
+Event: ('length_rsp/5', 'pairing_req/5')
+  Followed by:
+    length_req/3: 25.0%
+    version_req/5: 25.0%
+    pairing_req/5: 25.0%
+    feature_req/1: 12.5%
+    mtu_req/9: 12.5%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.4%
+------------------------------
+Event: ('length_req/3', 'length_rsp/4')
+  Followed by:
+    length_rsp/4: 9.38%
+    length_req/3: 18.75%
+    mtu_req/5: 12.5%
+    version_req/5: 15.62%
+    version_req/6: 3.12%
+    pairing_req/5: 6.25%
+    feature_req/1: 9.38%
+    mtu_req/9: 9.38%
+    feature_rsp/5: 12.5%
+    feature_rsp/2: 3.12%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.6%
+------------------------------
+Event: ('feature_rsp/2', 'length_req/3')
+  Followed by:
+    feature_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_rsp/7', 'feature_req/1')
+  Followed by:
+    pairing_req/5: 33.33%
+    feature_rsp/5: 33.33%
+    length_rsp/5: 33.33%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('pairing_req/5', 'feature_rsp/5')
+  Followed by:
+    mtu_req/9: 18.18%
+    length_req/3: 18.18%
+    feature_req/1: 12.12%
+    length_rsp/4: 12.12%
+    version_req/5: 15.15%
+    feature_rsp/5: 12.12%
+    pairing_req/5: 9.09%
+    length_rsp/5: 3.03%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.65%
+------------------------------
+Event: ('feature_req/1', 'feature_rsp/5')
+  Followed by:
+    feature_rsp/5: 11.9%
+    length_req/3: 14.29%
+    mtu_req/9: 9.52%
+    feature_req/1: 11.9%
+    pairing_req/5: 11.9%
+    version_req/5: 26.19%
+    length_rsp/4: 7.14%
+    length_rsp/5: 2.38%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.1%
+------------------------------
+Event: ('feature_rsp/5', 'feature_rsp/5')
+  Followed by:
+    length_rsp/5: 5.41%
+    pairing_req/5: 13.51%
+    mtu_req/9: 10.81%
+    feature_rsp/5: 16.22%
+    version_req/5: 5.41%
+    feature_req/1: 5.41%
+    version_req/6: 5.41%
+    length_req/3: 21.62%
+    length_rsp/4: 2.7%
+    pairing_req/10: 5.41%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.85%
+------------------------------
+Event: ('length_rsp/5', 'version_req/5')
+  Followed by:
+    feature_req/1: 33.33%
+    length_req/3: 11.11%
+    mtu_req/9: 22.22%
+    version_req/5: 11.11%
+    feature_rsp/5: 11.11%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.45%
+------------------------------
+Event: ('length_req/3', 'feature_rsp/2')
+  Followed by:
+    feature_req/1: 100.0%
+    pairing_req/10: 100.0%
+    length_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_req/1', 'version_req/5')
+  Followed by:
+    pairing_req/10: 2.7%
+    feature_req/1: 21.62%
+    pairing_req/5: 13.51%
+    version_req/5: 13.51%
+    mtu_req/9: 8.11%
+    length_rsp/4: 13.51%
+    length_rsp/5: 5.41%
+    feature_rsp/5: 8.11%
+    length_req/3: 2.7%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.85%
+------------------------------
+Event: ('version_req/5', 'pairing_req/10')
+  Followed by:
+    mtu_req/9: 50.0%
+    pairing_req/5: 25.0%
+    length_req/3: 25.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.2%
+------------------------------
+Event: ('pairing_req/10', 'mtu_req/9')
+  Followed by:
+    pairing_req/5: 40.0%
+    feature_rsp/5: 20.0%
+    version_req/6: 20.0%
+    mtu_req/9: 20.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.25%
+------------------------------
+Event: ('mtu_req/9', 'pairing_req/5')
+  Followed by:
+    version_req/5: 10.0%
+    version_req/6: 7.5%
+    pairing_req/5: 2.5%
+    length_rsp/4: 7.5%
+    feature_rsp/5: 17.5%
+    length_req/3: 12.5%
+    feature_req/1: 22.5%
+    mtu_req/9: 17.5%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 2.0%
+------------------------------
+Event: ('pairing_req/5', 'version_req/5')
+  Followed by:
+    pairing_req/5: 23.53%
+    feature_rsp/5: 11.76%
+    mtu_req/9: 23.53%
+    feature_req/1: 11.76%
+    length_req/3: 5.88%
+    version_req/5: 5.88%
+    length_rsp/4: 5.88%
+    length_rsp/5: 5.88%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.85%
+------------------------------
+Event: ('version_req/5', 'pairing_req/5')
+  Followed by:
+    feature_rsp/5: 29.63%
+    length_req/3: 14.81%
+    pairing_req/5: 11.11%
+    feature_req/1: 11.11%
+    version_req/5: 7.41%
+    length_rsp/4: 7.41%
+    mtu_req/9: 3.7%
+    feature_rsp/11: 3.7%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.35%
+------------------------------
+Event: ('feature_rsp/5', 'length_req/3')
+  Followed by:
+    length_rsp/5: 9.09%
+    feature_rsp/5: 21.21%
+    feature_req/1: 9.09%
+    length_rsp/4: 3.03%
+    length_req/3: 12.12%
+    version_req/5: 18.18%
+    mtu_req/9: 12.12%
+    pairing_req/5: 15.15%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.65%
+------------------------------
+Event: ('length_req/3', 'length_rsp/5')
+  Followed by:
+    feature_req/1: 11.11%
+    feature_rsp/5: 22.22%
+    version_req/5: 22.22%
+    length_rsp/4: 22.22%
+    mtu_req/9: 11.11%
+    pairing_req/5: 11.11%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.45%
+------------------------------
+Event: ('length_rsp/5', 'feature_req/1')
+  Followed by:
+    length_rsp/4: 18.18%
+    version_req/5: 9.09%
+    feature_rsp/5: 27.27%
+    feature_req/1: 18.18%
+    mtu_req/9: 18.18%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.55%
+------------------------------
+Event: ('length_rsp/4', 'version_req/5')
+  Followed by:
+    length_req/3: 14.29%
+    pairing_req/5: 14.29%
+    version_req/5: 14.29%
+    mtu_req/9: 9.52%
+    feature_req/1: 4.76%
+    length_rsp/4: 19.05%
+    feature_rsp/5: 9.52%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.05%
+------------------------------
+Event: ('version_req/5', 'length_req/3')
+  Followed by:
+    length_rsp/4: 6.67%
+    pairing_req/10: 3.33%
+    mtu_req/9: 10.0%
+    version_req/5: 20.0%
+    length_req/3: 20.0%
+    length_rsp/5: 3.33%
+    pairing_req/5: 16.67%
+    feature_rsp/5: 6.67%
+    feature_req/1: 10.0%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.5%
+------------------------------
+Event: ('version_req/5', 'length_rsp/4')
+  Followed by:
+    mtu_req/5: 4.55%
+    pairing_req/5: 9.09%
+    feature_req/1: 18.18%
+    mtu_req/9: 9.09%
+    version_req/5: 9.09%
+    length_req/3: 27.27%
+    length_rsp/4: 9.09%
+    feature_rsp/5: 4.55%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.1%
+------------------------------
+Event: ('length_req/3', 'feature_rsp/8')
+  Followed by:
+    length_req/3: 40.0%
+    version_req/6: 20.0%
+    mtu_req/9: 20.0%
+    feature_rsp/5: 20.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.25%
+------------------------------
+Event: ('feature_rsp/8', 'length_req/3')
+  Followed by:
+    feature_rsp/5: 50.0%
+    length_rsp/5: 50.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('mtu_req/9', 'length_rsp/5')
+  Followed by:
+    feature_req/1: 30.0%
+    feature_rsp/5: 10.0%
+    length_rsp/4: 10.0%
+    pairing_req/5: 20.0%
+    mtu_req/9: 30.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.5%
+------------------------------
+Event: ('length_req/3', 'feature_rsp/7')
+  Followed by:
+    feature_req/1: 33.33%
+    length_req/3: 33.33%
+    length_rsp/5: 33.33%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/5', 'version_req/5')
+  Followed by:
+    pairing_req/5: 16.67%
+    feature_rsp/5: 26.67%
+    length_req/3: 13.33%
+    version_req/5: 6.67%
+    pairing_req/10: 3.33%
+    mtu_req/9: 6.67%
+    length_rsp/4: 10.0%
+    feature_req/1: 10.0%
+    length_rsp/5: 3.33%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.5%
+------------------------------
+Event: ('version_req/5', 'version_req/5')
+  Followed by:
+    pairing_req/5: 13.79%
+    version_req/5: 13.79%
+    length_rsp/4: 10.34%
+    mtu_req/9: 20.69%
+    length_req/3: 20.69%
+    feature_rsp/5: 6.9%
+    feature_req/1: 3.45%
+    length_rsp/5: 3.45%
+    pairing_req/10: 3.45%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.45%
+------------------------------
+Event: ('mtu_req/5', 'feature_rsp/11')
+  Followed by:
+    mtu_req/9: 33.33%
+    feature_rsp/5: 16.67%
+    length_req/3: 16.67%
+    length_rsp/5: 16.67%
+    pairing_req/5: 16.67%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('feature_rsp/11', 'mtu_req/9')
+  Followed by:
+    length_req/3: 50.0%
+    mtu_req/9: 16.67%
+    pairing_req/5: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('length_rsp/4', 'version_req/6')
+  Followed by:
+    length_req/3: 44.44%
+    version_req/5: 11.11%
+    length_rsp/4: 11.11%
+    mtu_req/5: 11.11%
+    feature_req/1: 11.11%
+    feature_rsp/8: 11.11%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.45%
+------------------------------
+Event: ('feature_rsp/7', 'length_req/3')
+  Followed by:
+    length_req/3: 33.33%
+    mtu_req/9: 33.33%
+    feature_rsp/5: 33.33%
+    pairing_req/5: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('version_req/6', 'feature_rsp/7')
+  Followed by:
+    length_req/3: 50.0%
+    pairing_req/5: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/8', 'length_rsp/5')
+  Followed by:
+    pairing_req/10: 33.33%
+    length_req/3: 66.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('version_req/5', 'feature_rsp/5')
+  Followed by:
+    length_rsp/4: 10.71%
+    mtu_req/9: 10.71%
+    length_req/3: 10.71%
+    pairing_req/5: 14.29%
+    version_req/5: 14.29%
+    feature_rsp/5: 17.86%
+    feature_req/1: 21.43%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.4%
+------------------------------
+Event: ('feature_rsp/5', 'length_rsp/4')
+  Followed by:
+    mtu_req/9: 15.0%
+    pairing_req/5: 20.0%
+    length_req/3: 10.0%
+    feature_rsp/5: 10.0%
+    version_req/5: 10.0%
+    feature_req/1: 10.0%
+    length_rsp/4: 15.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.0%
+------------------------------
+Event: ('length_rsp/4', 'mtu_req/9')
+  Followed by:
+    feature_req/1: 21.74%
+    feature_rsp/5: 8.7%
+    length_rsp/4: 8.7%
+    pairing_req/5: 21.74%
+    mtu_req/9: 8.7%
+    length_req/3: 8.7%
+    version_req/5: 8.7%
+    version_req/6: 4.35%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.15%
+------------------------------
+Event: ('mtu_req/5', 'version_req/5')
+  Followed by:
+    mtu_req/5: 50.0%
+    length_rsp/4: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('length_rsp/4', 'feature_rsp/11')
+  Followed by:
+    version_req/5: 66.67%
+    mtu_req/9: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/11', 'version_req/5')
+  Followed by:
+    feature_rsp/5: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('version_req/6', 'length_rsp/5')
+  Followed by:
+    length_req/3: 33.33%
+    feature_req/1: 33.33%
+    feature_rsp/5: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('pairing_req/10', 'length_rsp/5')
+  Followed by:
+    version_req/5: 50.0%
+    length_rsp/4: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_req/1', 'mtu_req/9')
+  Followed by:
+    length_rsp/5: 16.13%
+    length_rsp/4: 9.68%
+    feature_rsp/5: 6.45%
+    pairing_req/5: 25.81%
+    feature_req/1: 19.35%
+    mtu_req/9: 6.45%
+    length_req/3: 9.68%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.55%
+------------------------------
+Event: ('length_rsp/5', 'feature_rsp/5')
+  Followed by:
+    length_req/3: 14.29%
+    feature_req/1: 28.57%
+    version_req/5: 14.29%
+    length_rsp/4: 28.57%
+    feature_rsp/5: 14.29%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.35%
+------------------------------
+Event: ('mtu_req/9', 'length_rsp/4')
+  Followed by:
+    version_req/6: 11.76%
+    version_req/5: 29.41%
+    feature_req/1: 11.76%
+    length_req/3: 11.76%
+    feature_rsp/5: 5.88%
+    pairing_req/5: 5.88%
+    length_rsp/4: 11.76%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.85%
+------------------------------
+Event: ('length_rsp/4', 'feature_rsp/7')
+  Followed by:
+    version_req/6: 50.0%
+    length_rsp/5: 50.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/7', 'version_req/6')
+  Followed by:
+    length_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('length_rsp/5', 'length_rsp/4')
+  Followed by:
+    length_rsp/4: 9.09%
+    pairing_req/5: 9.09%
+    feature_rsp/5: 27.27%
+    mtu_req/9: 18.18%
+    version_req/5: 18.18%
+    version_req/6: 9.09%
+    length_req/3: 9.09%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.55%
+------------------------------
+Event: ('mtu_req/9', 'feature_rsp/5')
+  Followed by:
+    feature_rsp/5: 24.0%
+    pairing_req/5: 16.0%
+    length_rsp/5: 12.0%
+    mtu_req/9: 8.0%
+    pairing_req/10: 4.0%
+    version_req/5: 12.0%
+    feature_req/1: 8.0%
+    length_req/3: 12.0%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.25%
+------------------------------
+Event: ('feature_rsp/5', 'pairing_req/5')
+  Followed by:
+    mtu_req/9: 24.24%
+    feature_req/1: 15.15%
+    version_req/6: 3.03%
+    version_req/5: 6.06%
+    length_rsp/4: 9.09%
+    pairing_req/5: 18.18%
+    feature_rsp/5: 12.12%
+    length_req/3: 9.09%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.65%
+------------------------------
+Event: ('pairing_req/5', 'mtu_req/9')
+  Followed by:
+    length_req/3: 15.38%
+    feature_req/1: 11.54%
+    mtu_req/9: 23.08%
+    length_rsp/5: 3.85%
+    feature_rsp/5: 11.54%
+    length_rsp/4: 7.69%
+    pairing_req/5: 7.69%
+    version_req/5: 7.69%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.3%
+------------------------------
+Event: ('length_req/3', 'mtu_req/9')
+  Followed by:
+    mtu_req/9: 24.0%
+    version_req/5: 8.0%
+    feature_req/1: 16.0%
+    feature_rsp/5: 20.0%
+    pairing_req/5: 16.0%
+    length_rsp/4: 4.0%
+    length_req/3: 12.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.25%
+------------------------------
+Event: ('mtu_req/9', 'mtu_req/9')
+  Followed by:
+    mtu_req/9: 13.79%
+    feature_req/1: 13.79%
+    version_req/5: 13.79%
+    feature_rsp/5: 13.79%
+    pairing_req/5: 20.69%
+    length_req/3: 10.34%
+    length_rsp/4: 3.45%
+    length_rsp/5: 6.9%
+  Not followed by:
+    feature_req/7
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.45%
+------------------------------
+Event: ('version_req/6', 'feature_rsp/5')
+  Followed by:
+    feature_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_req/1', 'feature_rsp/8')
+  Followed by:
+    feature_rsp/5: 33.33%
+    length_rsp/5: 33.33%
+    feature_req/1: 33.33%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/8', 'version_req/6')
+  Followed by:
+    length_req/3: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('length_req/3', 'pairing_req/10')
+  Followed by:
+    length_req/3: 16.67%
+    feature_req/1: 50.0%
+    version_req/5: 16.67%
+    length_rsp/4: 16.67%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.3%
+------------------------------
+Event: ('version_req/5', 'mtu_req/9')
+  Followed by:
+    feature_rsp/5: 14.29%
+    mtu_req/9: 17.86%
+    pairing_req/5: 25.0%
+    feature_req/1: 25.0%
+    length_req/3: 14.29%
+    version_req/5: 3.57%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.4%
+------------------------------
+Event: ('feature_rsp/8', 'version_req/5')
+  Followed by:
+    feature_rsp/5: 50.0%
+    length_req/3: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/11', 'feature_rsp/5')
+  Followed by:
+    feature_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('pairing_req/10', 'version_req/5')
+  Followed by:
+    length_req/3: 33.33%
+    version_req/5: 33.33%
+    mtu_req/9: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('length_rsp/4', 'feature_rsp/5')
+  Followed by:
+    version_req/5: 5.0%
+    pairing_req/5: 35.0%
+    feature_rsp/5: 10.0%
+    feature_req/1: 15.0%
+    length_req/3: 10.0%
+    length_rsp/4: 15.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 1.0%
+------------------------------
+Event: ('mtu_req/9', 'pairing_req/10')
+  Followed by:
+    pairing_req/5: 50.0%
+    version_req/5: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('pairing_req/10', 'pairing_req/5')
+  Followed by:
+    feature_rsp/5: 66.67%
+    version_req/5: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/5', 'pairing_req/10')
+  Followed by:
+    feature_rsp/5: 20.0%
+    version_req/5: 20.0%
+    length_rsp/5: 20.0%
+    version_req/6: 20.0%
+    length_req/3: 20.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.25%
+------------------------------
+Event: ('feature_rsp/8', 'pairing_req/10')
+  Followed by:
+    length_req/3: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_rsp/7', 'length_rsp/5')
+  Followed by:
+    length_rsp/4: 50.0%
+    length_req/3: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('pairing_req/5', 'feature_rsp/11')
+  Followed by:
+    feature_req/1: 33.33%
+    version_req/6: 33.33%
+    mtu_req/9: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/11', 'feature_req/1')
+  Followed by:
+    mtu_req/9: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('length_rsp/5', 'mtu_req/9')
+  Followed by:
+    feature_req/1: 14.29%
+    length_rsp/4: 42.86%
+    pairing_req/5: 14.29%
+    version_req/5: 28.57%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.35%
+------------------------------
+Event: ('feature_rsp/11', 'version_req/6')
+  Followed by:
+    length_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_req/1', 'feature_rsp/7')
+  Followed by:
+    pairing_req/5: 50.0%
+    feature_rsp/5: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/7', 'pairing_req/5')
+  Followed by:
+    length_req/3: 50.0%
+    feature_req/1: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('length_rsp/4', 'feature_rsp/8')
+  Followed by:
+    feature_rsp/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_rsp/8', 'feature_rsp/5')
+  Followed by:
+    pairing_req/10: 33.33%
+    version_req/6: 33.33%
+    feature_rsp/5: 33.33%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.15%
+------------------------------
+Event: ('feature_rsp/11', 'length_rsp/5')
+  Followed by:
+    feature_rsp/5: 50.0%
+    length_req/3: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('version_req/5', 'length_rsp/5')
+  Followed by:
+    length_rsp/4: 20.0%
+    feature_req/1: 40.0%
+    pairing_req/5: 20.0%
+    length_req/3: 20.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.25%
+------------------------------
+Event: ('pairing_req/10', 'length_rsp/4')
+  Followed by:
+    feature_rsp/5: 50.0%
+    feature_req/1: 50.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.1%
+------------------------------
+Event: ('feature_rsp/2', 'version_req/5')
+  Followed by:
+    pairing_req/10: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('version_req/6', 'feature_rsp/8')
+  Followed by:
+    version_req/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('pairing_req/5', 'length_rsp/5')
+  Followed by:
+    pairing_req/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('pairing_req/10', 'version_req/6')
+  Followed by:
+    pairing_req/5: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_rsp/7', 'feature_rsp/5')
+  Followed by:
+    feature_req/1: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_req/1', 'feature_rsp/11')
+  Followed by:
+    mtu_req/9: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    feature_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------
+Event: ('feature_rsp/11', 'pairing_req/5')
+  Followed by:
+    feature_req/1: 100.0%
+  Not followed by:
+    feature_req/7
+    length_rsp/5
+    pairing_req/5
+    version_req/8
+    length_rsp/11
+    mtu_req/8
+    feature_req/2
+    pairing_req/10
+    length_req/7
+    feature_req/10
+    feature_rsp/3
+    feature_rsp/1
+    pairing_req/9
+    feature_req/3
+    feature_req/8
+    mtu_req/1
+    length_req/11
+    pairing_req/4
+    length_rsp/6
+    version_req/2
+    length_rsp/8
+    pairing_req/6
+    length_req/10
+    version_req/1
+    length_rsp/9
+    feature_rsp/9
+    length_rsp/2
+    version_req/11
+    mtu_req/5
+    feature_rsp/8
+    feature_req/6
+    version_req/4
+    pairing_req/3
+    mtu_req/9
+    version_req/6
+    pairing_req/11
+    length_rsp/1
+    feature_rsp/7
+    length_req/6
+    version_req/9
+    mtu_req/11
+    mtu_req/10
+    length_rsp/4
+    length_rsp/10
+    feature_rsp/11
+    length_req/8
+    length_req/4
+    feature_req/11
+    length_req/3
+    version_req/5
+    mtu_req/2
+    version_req/7
+    feature_rsp/2
+    length_rsp/3
+    feature_rsp/5
+    mtu_req/7
+    pairing_req/1
+Percentage_of_appearance: 0.05%
+------------------------------

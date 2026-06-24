@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random5_1_75,8749,1,75,10 states,8 symbols,1174,27,8,13,8,310,0,0,12.7488,300,300,11,300,0,289,1.00,0.04,1.00,0.10,0.50,0.50,0.6941489361702128,77.14,885.71
+Random5_6_75,9955,6,75,10 states,8 symbols,1191,25,7,13,8,135,0,0,10.7075,300,300,49,298,2,251,0.96,0.16,0.99,0.30,0.60,0.60,0.7636363636363637,78.12,421.88
+Random5_8_75,6523,8,75,10 states,8 symbols,1202,28,9,16,8,400,0,0,10.4982,300,300,39,295,5,261,0.89,0.13,0.98,0.20,0.60,0.60,0.5971153846153847,75.68,1081.08
+Random5_4_75,1794,4,75,10 states,8 symbols,1185,25,15,16,8,564,0,0,10.1660,300,300,36,297,3,264,0.92,0.12,0.99,0.20,0.60,0.60,0.5829545454545455,62.50,1410.00
+Random5_3_75,9653,3,75,10 states,8 symbols,1190,23,17,17,8,207,0,0,10.6465,300,300,10,300,0,290,1.00,0.03,1.00,0.10,0.50,0.50,0.4928571428571428,57.50,517.50
+Random5_9_75,2895,9,75,10 states,8 symbols,1183,23,11,13,8,262,0,0,9.3926,300,300,10,300,0,290,1.00,0.03,1.00,0.10,0.50,0.50,0.6076086956521739,67.65,770.59
+Random5_2_75,8637,2,75,10 states,8 symbols,1190,26,13,14,8,298,0,0,11.0316,300,300,15,298,2,285,0.88,0.05,0.99,0.10,0.50,0.50,0.3317307692307692,66.67,764.10
+Random5_7_75,5161,7,75,10 states,8 symbols,1178,21,15,15,8,388,0,0,6.9041,300,300,2,299,1,298,0.67,0.01,1.00,0.00,0.50,0.50,0.45,58.33,1077.78
+Random5_5_75,4407,5,75,10 states,8 symbols,1182,22,14,15,8,302,0,0,13.3137,300,300,8,299,1,292,0.89,0.03,1.00,0.10,0.50,0.50,0.5175,61.11,838.89
+Random5_0_75,6481,0,75,10 states,8 symbols,1185,23,11,12,8,264,0,0,8.1665,300,300,17,298,2,283,0.89,0.06,0.99,0.10,0.50,0.50,0.5902777777777778,67.65,776.47

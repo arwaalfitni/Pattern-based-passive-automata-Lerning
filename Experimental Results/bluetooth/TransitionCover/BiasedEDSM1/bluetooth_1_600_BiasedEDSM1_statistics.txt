@@ -1,0 +1,33 @@
+File: bluetooth
+Seed: 7844
+Trails: 1
+Number of walks: 600
+Size of reference graph: 15 states
+Alphabet_size: 15 symbols
+
+Size of actual model(APTA): 16828
+Correct merges: 107
+Incorrect merges: 11
+Size of learned model (baised_EDSM): 20
+number of hard patterns: 15
+number of blocked potential-merges by hard patterns: 175
+number of soft patterns: 62
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 21911.8249
+
+
+Evaluation Report:
+number of Positive traces: 2400
+number of Negative traces: 2400
+True Positive: 2329
+True Negative: 2400
+False Positive: 0
+False Negative: 71
+Precision: 1.00
+Recall: 0.97
+Specificity: 1.00
+F-measure: 1.00
+Accuracy: 1.00
+BCR: 1.00
+Ratio of Missing Transitons: -0.3
+Structural Difference: 0.8495655196385123

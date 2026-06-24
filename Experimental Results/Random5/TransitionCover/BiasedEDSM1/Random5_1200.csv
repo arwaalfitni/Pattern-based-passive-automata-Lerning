@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random5_8_1200,6523,8,1200,10 states,8 symbols,19789,31,1,11,8,8,0,0,2953.1648,4800,4800,4425,4791,9,375,1.00,0.92,1.00,1.00,1.00,1.00,0.9517857142857142,96.88,25.00
+Random5_2_1200,8637,2,1200,10 states,8 symbols,19715,31,0,10,8,0,0,0,3241.2010,4800,4800,4800,4800,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,0.00
+Random5_1_1200,8749,1,1200,10 states,8 symbols,19809,31,0,10,8,0,0,0,3017.7521,4800,4800,4800,4800,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,0.00
+Random5_6_1200,9955,6,1200,10 states,8 symbols,19876,31,0,10,8,8,0,0,3066.6008,4800,4800,4800,4800,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,25.81
+Random5_3_1200,9653,3,1200,10 states,8 symbols,19799,32,1,11,8,10,0,0,3117.5415,4800,4800,4587,4779,21,213,1.00,0.96,1.00,1.00,1.00,1.00,0.9409883720930232,96.97,30.30
+Random5_9_1200,2895,9,1200,10 states,8 symbols,19786,31,0,10,8,0,0,0,3042.8737,4800,4800,4800,4800,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,0.00
+Random5_4_1200,1794,4,1200,10 states,8 symbols,19784,32,1,11,8,9,0,0,3003.3774,4800,4800,4490,4799,1,310,1.00,0.94,1.00,1.00,1.00,1.00,0.9409883720930232,96.97,27.27
+Random5_5_1200,4407,5,1200,10 states,8 symbols,19741,31,0,10,8,1,0,0,3352.6619,4800,4800,4800,4800,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,3.23
+Random5_7_1200,5161,7,1200,10 states,8 symbols,19826,31,0,10,8,0,0,0,2837.1610,4800,4800,4800,4800,0,0,1.00,1.00,1.00,1.00,1.00,1.00,1.0,100.00,0.00
+Random5_0_1200,6481,0,1200,10 states,8 symbols,19853,30,5,12,8,26,0,0,3309.3250,4800,4800,3877,4756,44,923,0.99,0.81,0.99,0.90,0.90,0.90,0.8880434782608695,85.71,74.29

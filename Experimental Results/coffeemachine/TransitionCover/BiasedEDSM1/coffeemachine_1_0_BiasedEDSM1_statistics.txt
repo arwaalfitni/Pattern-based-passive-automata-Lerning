@@ -1,0 +1,33 @@
+File: coffeemachine
+Seed: 8014
+Trails: 1
+Number of walks: 0
+Size of reference graph: 6 states
+Alphabet_size: 8 symbols
+
+Size of actual model(APTA): 58
+Correct merges: 13
+Incorrect merges: 3
+Size of learned model (baised_EDSM): 8
+number of hard patterns: 8
+number of blocked potential-merges by hard patterns: 154
+number of soft patterns: 3
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 0.1408
+
+
+Evaluation Report:
+number of Positive traces: 44
+number of Negative traces: 44
+True Positive: 13
+True Negative: 39
+False Positive: 5
+False Negative: 31
+Precision: 0.72
+Recall: 0.30
+Specificity: 0.89
+F-measure: 0.40
+Accuracy: 0.60
+BCR: 0.60
+Structural Difference: 0.29800724637681164
+Ratio of Missing Transitons: 0.04

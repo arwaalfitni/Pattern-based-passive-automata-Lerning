@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random4_6_600,6670,6,600,9 states,8 symbols,8921,25,3,10,8,30,0,0,415.3065,2400,2400,2265,2397,3,135,1.00,0.94,1.00,1.00,1.00,1.00,0.9042792792792793,89.29,107.14
+Random4_2_600,8584,2,600,9 states,8 symbols,8930,21,6,10,8,18,0,0,385.8047,2400,2400,2127,2397,3,273,1.00,0.89,1.00,0.90,0.90,0.90,0.8055555555555556,77.78,66.67
+Random4_0_600,3627,0,600,9 states,8 symbols,8936,24,6,11,8,19,0,0,372.5352,2400,2400,2183,2387,13,217,0.99,0.91,0.99,0.90,1.00,1.00,0.8180555555555555,80.00,63.33
+Random4_9_600,7153,9,600,9 states,8 symbols,8988,25,5,10,8,63,0,0,404.4764,2400,2400,2253,2394,6,147,1.00,0.94,1.00,1.00,1.00,1.00,0.8814102564102564,83.33,210.00
+Random4_5_600,2866,5,600,9 states,8 symbols,8952,22,8,12,8,80,0,0,388.9452,2400,2400,2144,2395,5,256,1.00,0.89,1.00,0.90,0.90,0.90,0.782520325203252,73.33,266.67
+Random4_3_600,6744,3,600,9 states,8 symbols,8966,26,8,12,8,90,0,0,381.5417,2400,2400,2175,2392,8,225,1.00,0.91,1.00,0.90,1.00,1.00,0.775,76.47,264.71
+Random4_8_600,5435,8,600,9 states,8 symbols,8969,25,6,12,8,78,0,0,424.6226,2400,2400,2182,2394,6,218,1.00,0.91,1.00,1.00,1.00,1.00,0.8253968253968254,80.65,251.61
+Random4_7_600,4120,7,600,9 states,8 symbols,8966,21,7,10,8,19,0,0,452.4230,2400,2400,2103,2396,4,297,1.00,0.88,1.00,0.90,0.90,0.90,0.7946696696696697,75.00,67.86
+Random4_4_600,9328,4,600,9 states,8 symbols,8926,23,4,9,8,16,0,0,392.1236,2400,2400,2227,2388,12,173,0.99,0.93,0.99,1.00,1.00,1.00,0.8734126984126984,85.19,59.26
+Random4_1_600,7021,1,600,9 states,8 symbols,8958,23,5,10,8,11,0,0,375.1792,2400,2400,2202,2396,4,198,1.00,0.92,1.00,1.00,1.00,1.00,0.8494744744744744,82.14,39.29

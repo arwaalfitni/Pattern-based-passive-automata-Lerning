@@ -1,0 +1,40 @@
+File: TCP
+Seed: 7775
+Trails: 8
+Number of walks: 300
+Size of reference graph: 14 states
+Alphabet_size: 28 symbols
+
+Size of actual model(APTA): 7504
+Size of APTA after merging rejected states: 7504
+Correct merges: 25
+Incorrect merges: 0
+Size of learned model(sicco_EDSM): 1774
+Total time spent in EDSM (seconds): 1181.9940
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 12
+Number of SAT solver calls: 11
+Number of variables in the last SAT call: 37140
+Number of clauses in the last SAT call: 970764
+SAT result: SAT
+Total time spent in SAT solver (seconds): 630.6218
+Total time spent in SAT solver (seconds): 630.6218
+
+
+Evaluation Report:
+number of Positive traces: 1200
+number of Negative traces: 1200
+True Positive: 271
+True Negative: 1184
+False Positive: 16
+False Negative: 929
+Precision: 0.94
+Recall: 0.23
+Specificity: 0.99
+F-measure: 0.40
+Accuracy: 0.60
+BCR: 0.60
+Structural Difference: 0.625
+Structural Difference: 0.625

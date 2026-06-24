@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+openSSL_2_300,6118,2,300,6 states,20 symbols,3086,55,4,13,18,1854,31,0,236.0065,1200,1200,16,1170,30,1184,0.35,0.01,0.97,0.0,0.5,0.5,0.3789403085177732,93.22,3142.37
+openSSL_9_300,8960,9,300,6 states,20 symbols,3068,53,5,12,18,1678,31,0,185.7341,1200,1200,16,1163,37,1184,0.3,0.01,0.97,0.0,0.5,0.5,0.3830227743271222,91.38,2893.1
+openSSL_6_300,6237,6,300,6 states,20 symbols,3058,47,4,11,19,630,30,0,230.7784,1200,1200,329,973,227,871,0.59,0.27,0.81,0.4,0.5,0.5,0.4020296643247463,92.16,1235.29
+openSSL_7_300,2395,7,300,6 states,20 symbols,3107,45,5,11,18,962,31,0,242.0058,1200,1200,16,1165,35,1184,0.31,0.01,0.97,0.0,0.5,0.5,0.4452380952380952,90.0,1924.0
+openSSL_0_300,866,0,300,6 states,20 symbols,3075,51,5,15,18,2020,31,0,133.8054,1200,1200,22,1158,42,1178,0.34,0.02,0.96,0.0,0.5,0.5,0.3238095238095238,91.07,3607.14
+openSSL_8_300,8082,8,300,6 states,20 symbols,3025,53,4,13,18,1545,31,0,211.1819,1200,1200,92,1134,66,1108,0.58,0.08,0.94,0.1,0.5,0.5,0.3830227743271222,92.98,2710.53
+openSSL_4_300,979,4,300,6 states,20 symbols,3072,46,4,11,18,645,31,0,191.9924,1200,1200,154,1125,75,1046,0.67,0.13,0.94,0.2,0.5,0.5,0.4654761904761905,92.0,1290.0
+openSSL_3_300,2753,3,300,6 states,20 symbols,3108,49,4,14,18,1558,31,0,226.3599,1200,1200,16,1168,32,1184,0.33,0.01,0.97,0.0,0.5,0.5,0.3506493506493506,92.45,2939.62
+openSSL_5_300,6634,5,300,6 states,20 symbols,3092,55,4,13,18,1413,31,0,203.0006,1200,1200,16,1165,35,1184,0.31,0.01,0.97,0.0,0.5,0.5,0.3599932930918846,93.22,2394.92
+openSSL_1_300,6583,1,300,6 states,20 symbols,3097,47,3,12,18,732,31,0,203.8208,1200,1200,159,1108,92,1041,0.63,0.13,0.92,0.2,0.5,0.5,0.4623341139734582,94.0,1464.0

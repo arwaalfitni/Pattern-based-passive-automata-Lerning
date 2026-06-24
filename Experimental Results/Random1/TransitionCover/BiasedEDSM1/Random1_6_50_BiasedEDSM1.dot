@@ -1,0 +1,28 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "1" [fillcolor=red, shape=doublecircle];
+  "17" [fillcolor=red, shape=doublecircle];
+  "18" [fillcolor=red, shape=doublecircle];
+  "123" [fillcolor=red, shape=doublecircle];
+  "386" [fillcolor=red, shape=doublecircle];
+  "563" [fillcolor=red, shape=doublecircle];
+  "0" -> "1" [label="L1/X"];
+  "0" -> "17" [label="L0/X"];
+  "0" -> "563" [label="L2/X"];
+  "1" -> "0" [label="L2/X"];
+  "1" -> "1" [label="L1/X"];
+  "1" -> "386" [label="L0/Y"];
+  "17" -> "18" [label="L2/X"];
+  "17" -> "386" [label="L0/Y\nL1/Y"];
+  "18" -> "123" [label="L0/X"];
+  "18" -> "386" [label="L2/Y\nL1/Y"];
+  "123" -> "563" [label="L2/X"];
+  "123" -> "386" [label="L1/Y"];
+  "123" -> "17" [label="L0/X"];
+  "386" -> "386" [label="L0/Y\nL2/Y\nL1/Y"];
+  "563" -> "17" [label="L0/X"];
+  "563" -> "18" [label="L1/X"];
+  "563" -> "1" [label="L2/X"];
+}

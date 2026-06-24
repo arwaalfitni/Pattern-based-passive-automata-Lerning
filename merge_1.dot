@@ -1,0 +1,23 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "1" [fillcolor=red, shape=doublecircle];
+  "2" [fillcolor=red, shape=doublecircle];
+  "5" [shape=doublecircle];
+  "7" [fillcolor=red, shape=doublecircle];
+  "9" [fillcolor=blue, shape=doublecircle];
+  "16" [fillcolor=blue, shape=doublecircle];
+  "18" [fillcolor=blue, shape=doublecircle];
+  "20" [fillcolor=red, shape=doublecircle];
+  "0" -> "1" [label="open/1"];
+  "0" -> "20" [label="exit/0"];
+  "1" -> "2" [label="edit/1"];
+  "1" -> "7" [label="exit/0"];
+  "1" -> "5" [label="open/0"];
+  "2" -> "18" [label="edit/1"];
+  "2" -> "2" [label="open/0"];
+  "2" -> "0" [label="exit/0"];
+  "7" -> "9" [label="exit/0"];
+  "7" -> "16" [label="edit/0"];
+}

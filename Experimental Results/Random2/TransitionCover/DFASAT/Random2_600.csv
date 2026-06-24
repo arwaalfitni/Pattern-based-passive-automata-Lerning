@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model(sicco_EDSM),Total time spent in EDSM (seconds),Number of colors used (automata_size),Number of SAT solver calls,Number of variables in the last SAT call,Number of clauses in the last SAT call,SAT result,Total time spent in SAT solver (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random2_3_600,9338,3,600,12 states,12 symbols,12433,13,0,6066,1510.3675,13,12,80899,2562187,SAT,948.394,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_6_600,1612,6,600,12 states,12 symbols,12389,14,0,5840,1972.3416,13,12,77961,2468283,SAT,989.015,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_8_600,893,8,600,12 states,12 symbols,12434,14,0,5428,1991.3549,13,12,72605,2296479,SAT,968.3181,2400,2400,1814,2383,17,586,0.99,0.76,0.99,0.9,0.9,0.9,0.979166666666667,100,0
+Random2_0_600,8965,0,600,12 states,12 symbols,12424,13,0,6115,1662.4144,13,12,81536,2582620,SAT,974.3868,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_4_600,247,4,600,12 states,12 symbols,12381,13,0,5571,1591.4215,13,12,74464,2355772,SAT,978.8143,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_1_600,1240,1,600,12 states,12 symbols,12444,13,0,5752,1621.2264,13,12,76817,2431249,SAT,972.9238,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_5_600,6029,5,600,12 states,12 symbols,12345,14,0,5316,1898.4874,13,12,71149,2249775,SAT,911.9828,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_7_600,3704,7,600,12 states,12 symbols,12439,13,0,5767,1637.7594,13,12,77012,2437504,SAT,964.0886,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_2_600,3141,2,600,12 states,12 symbols,12395,13,0,5516,1504.0565,13,12,73749,2332837,SAT,884.1864,2400,2400,2400,2400,0,0,1,1,1,1,1,1,1,100,0
+Random2_9_600,4434,9,600,12 states,12 symbols,12446,13,0,5514,1490.2039,13,12,73723,2332003,SAT,960.8679,2400,2400,1813,2376,24,587,0.99,0.76,0.99,0.9,0.9,0.9,0.958333333333333,100,0

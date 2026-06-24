@@ -1,0 +1,28 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "140" [fillcolor=red, shape=doublecircle];
+  "519" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "2195" [fillcolor=red, shape=doublecircle];
+  "2482" [fillcolor=red, shape=doublecircle];
+  "4094" [fillcolor=red, shape=doublecircle];
+  "4117" [fillcolor=red, shape=doublecircle];
+  "140" -> "140" [label="BUTTON/1\nPOD/1\nCLEAN/1\nWATER/1"];
+  "519" -> "4117" [label="WATER/2"];
+  "519" -> "519" [label="CLEAN/2"];
+  "519" -> "140" [label="BUTTON/1"];
+  "519" -> "2482" [label="POD/2"];
+  "2195" -> "519" [label="CLEAN/2"];
+  "2195" -> "140" [label="POD/1\nBUTTON/1\nWATER/1"];
+  "2482" -> "519" [label="CLEAN/2"];
+  "2482" -> "2482" [label="POD/2"];
+  "2482" -> "140" [label="BUTTON/1"];
+  "2482" -> "4094" [label="WATER/2"];
+  "4094" -> "2195" [label="BUTTON/3"];
+  "4094" -> "4094" [label="POD/2\nWATER/2"];
+  "4094" -> "519" [label="CLEAN/2"];
+  "4117" -> "4117" [label="WATER/2"];
+  "4117" -> "519" [label="CLEAN/2"];
+  "4117" -> "140" [label="BUTTON/1"];
+  "4117" -> "4094" [label="POD/2"];
+}

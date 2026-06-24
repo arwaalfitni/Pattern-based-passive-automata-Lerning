@@ -1,0 +1,32 @@
+File: openSSL
+Seed: 8960
+Trails: 9
+Number of walks: 600
+Size of reference graph: 6 states
+Alphabet_size: 20 symbols
+
+Size of actual model(APTA): 6111
+Correct merges: 44
+Incorrect merges: 3
+Size of learned model (baised_EDSM): 10
+number of hard patterns: 18
+number of blocked potential-merges by hard patterns: 492
+number of soft patterns: 31
+number of biased potential-merges by soft patterns: 0
+Total time spent in EDSM (seconds): 527.2540
+
+
+Evaluation Report:
+number of Positive traces: 2400
+number of Negative traces: 2400
+True Positive: 590
+True Negative: 2105
+False Positive: 295
+False Negative: 1810
+Precision: 0.67
+Recall: 0.25
+Specificity: 0.88
+F-measure: 0.40
+Accuracy: 0.60
+BCR: 0.60
+Structural Difference: 0.5

@@ -1,0 +1,277 @@
+Exploration Map
+==============================
+Event: ('L1/X', 'L2/X')
+  Followed by:
+    L2/X: 50.0%
+    L0/X: 33.33%
+    L1/X: 50.0%
+  Not followed by:
+    L2/Y
+    L0/Y
+    L1/Y
+Percentage_of_appearance: 1.07%
+------------------------------
+Event: ('L1/X', 'L1/X')
+  Followed by:
+    L0/Y: 33.33%
+    L1/X: 66.67%
+    L2/X: 16.67%
+  Not followed by:
+    L2/Y
+    L1/Y
+    L0/X
+Percentage_of_appearance: 1.07%
+------------------------------
+Event: ('L1/X', 'L0/Y')
+  Followed by:
+    L1/Y: 50.0%
+    L0/Y: 50.0%
+    L2/Y: 75.0%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.72%
+------------------------------
+Event: ('L0/X', 'L2/X')
+  Followed by:
+    L1/Y: 11.11%
+    L2/Y: 22.22%
+    L0/X: 55.56%
+    L1/X: 11.11%
+    L2/X: 33.33%
+  Not followed by:
+    L0/Y
+Percentage_of_appearance: 1.61%
+------------------------------
+Event: ('L0/X', 'L0/Y')
+  Followed by:
+    L2/Y: 66.67%
+    L0/Y: 66.67%
+  Not followed by:
+    L1/X
+    L1/Y
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.54%
+------------------------------
+Event: ('L0/X', 'L1/Y')
+  Followed by:
+    L1/Y: 80.0%
+    L0/Y: 40.0%
+    L2/Y: 20.0%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.89%
+------------------------------
+Event: ('L2/X', 'L0/X')
+  Followed by:
+    L1/Y: 18.18%
+    L0/Y: 18.18%
+    L2/X: 72.73%
+    L0/X: 9.09%
+  Not followed by:
+    L2/Y
+    L1/X
+Percentage_of_appearance: 1.97%
+------------------------------
+Event: ('L2/X', 'L2/X')
+  Followed by:
+    L0/Y: 40.0%
+    L2/X: 30.0%
+    L1/X: 30.0%
+    L0/X: 30.0%
+  Not followed by:
+    L2/Y
+    L1/Y
+Percentage_of_appearance: 1.79%
+------------------------------
+Event: ('L2/X', 'L1/X')
+  Followed by:
+    L2/Y: 12.5%
+    L2/X: 37.5%
+    L0/X: 25.0%
+    L1/X: 12.5%
+    L0/Y: 12.5%
+  Not followed by:
+    L1/Y
+Percentage_of_appearance: 1.43%
+------------------------------
+Event: ('L0/Y', 'L1/Y')
+  Followed by:
+    L0/Y: 37.5%
+    L1/Y: 37.5%
+    L2/Y: 22.92%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 8.59%
+------------------------------
+Event: ('L0/Y', 'L0/Y')
+  Followed by:
+    L1/Y: 21.13%
+    L0/Y: 39.44%
+    L2/Y: 38.03%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 12.7%
+------------------------------
+Event: ('L0/Y', 'L2/Y')
+  Followed by:
+    L1/Y: 29.63%
+    L0/Y: 18.52%
+    L2/Y: 37.04%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 9.66%
+------------------------------
+Event: ('L1/X', 'L0/X')
+  Followed by:
+    L0/X: 50.0%
+    L1/X: 50.0%
+  Not followed by:
+    L2/Y
+    L0/Y
+    L1/Y
+    L2/X
+Percentage_of_appearance: 0.36%
+------------------------------
+Event: ('L0/X', 'L0/X')
+  Followed by:
+    L1/Y: 100.0%
+  Not followed by:
+    L2/Y
+    L0/Y
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.36%
+------------------------------
+Event: ('L1/Y', 'L1/Y')
+  Followed by:
+    L0/Y: 27.87%
+    L2/Y: 36.07%
+    L1/Y: 31.15%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 10.91%
+------------------------------
+Event: ('L1/Y', 'L2/Y')
+  Followed by:
+    L1/Y: 35.42%
+    L0/Y: 27.08%
+    L2/Y: 31.25%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 8.59%
+------------------------------
+Event: ('L2/Y', 'L2/Y')
+  Followed by:
+    L2/Y: 23.4%
+    L0/Y: 27.66%
+    L1/Y: 44.68%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 8.41%
+------------------------------
+Event: ('L2/Y', 'L1/Y')
+  Followed by:
+    L0/Y: 35.71%
+    L2/Y: 23.21%
+    L1/Y: 33.93%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 10.02%
+------------------------------
+Event: ('L1/Y', 'L0/Y')
+  Followed by:
+    L0/Y: 37.93%
+    L1/Y: 29.31%
+    L2/Y: 20.69%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 10.38%
+------------------------------
+Event: ('L2/X', 'L1/Y')
+  Followed by:
+    L1/Y: 100.0%
+    L0/Y: 100.0%
+    L2/Y: 100.0%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.18%
+------------------------------
+Event: ('L2/X', 'L2/Y')
+  Followed by:
+    L0/Y: 50.0%
+    L1/Y: 50.0%
+  Not followed by:
+    L2/Y
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.36%
+------------------------------
+Event: ('L2/Y', 'L0/Y')
+  Followed by:
+    L0/Y: 36.84%
+    L1/Y: 31.58%
+    L2/Y: 23.68%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 6.8%
+------------------------------
+Event: ('L2/X', 'L0/Y')
+  Followed by:
+    L2/Y: 25.0%
+    L0/Y: 75.0%
+    L1/Y: 50.0%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.72%
+------------------------------
+Event: ('L1/X', 'L2/Y')
+  Followed by:
+    L2/Y: 100.0%
+    L0/Y: 100.0%
+    L1/Y: 100.0%
+  Not followed by:
+    L1/X
+    L2/X
+    L0/X
+Percentage_of_appearance: 0.18%
+------------------------------
+Event: ('L0/X', 'L1/X')
+  Followed by:
+    L2/X: 100.0%
+  Not followed by:
+    L2/Y
+    L0/Y
+    L1/X
+    L1/Y
+    L0/X
+Percentage_of_appearance: 0.18%
+------------------------------

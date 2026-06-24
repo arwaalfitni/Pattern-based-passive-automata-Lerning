@@ -1,0 +1,28 @@
+digraph G {
+  rankdir=LR;
+  node [shape=circle, style=filled, fillcolor=white];
+  "0" [isInitial=True, fillcolor=red, shape=doublecircle];
+  "1" [fillcolor=red, shape=doublecircle];
+  "183" [fillcolor=red, shape=doublecircle];
+  "668" [fillcolor=red, shape=doublecircle];
+  "1538" [fillcolor=red, shape=doublecircle];
+  "1539" [fillcolor=red, shape=doublecircle];
+  "0" -> "1" [label="WATER/2"];
+  "0" -> "0" [label="CLEAN/2"];
+  "0" -> "1538" [label="POD/2"];
+  "0" -> "668" [label="BUTTON/1"];
+  "1" -> "0" [label="CLEAN/2"];
+  "1" -> "1" [label="WATER/2"];
+  "1" -> "1539" [label="POD/2"];
+  "1" -> "668" [label="BUTTON/1"];
+  "183" -> "0" [label="CLEAN/2"];
+  "183" -> "668" [label="WATER/1\nPOD/1\nBUTTON/1"];
+  "668" -> "668" [label="BUTTON/1\nPOD/1\nCLEAN/1\nWATER/1"];
+  "1538" -> "1539" [label="WATER/2"];
+  "1538" -> "1538" [label="POD/2"];
+  "1538" -> "0" [label="CLEAN/2"];
+  "1538" -> "668" [label="BUTTON/1"];
+  "1539" -> "0" [label="CLEAN/2"];
+  "1539" -> "1539" [label="POD/2\nWATER/2"];
+  "1539" -> "183" [label="BUTTON/3"];
+}

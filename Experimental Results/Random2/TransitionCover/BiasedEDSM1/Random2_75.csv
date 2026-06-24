@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random2_5_75,8737,5,75,12 states,12 symbols,1405,33,4,17,12,320,0,0,11.6373,300,300,25,300,0,275,1.0,0.08,1.0,0.2,0.5,0.5,0.7543238993710691,89.19,864.86
+Random2_6_75,1871,6,75,12 states,12 symbols,1416,35,4,15,12,268,0,0,15.9176,300,300,38,299,1,262,0.97,0.13,1.0,0.2,0.6,0.6,0.7146226415094339,89.74,687.18
+Random2_7_75,216,7,75,12 states,12 symbols,1423,35,9,20,12,301,0,0,12.9626,300,300,22,300,0,278,1.0,0.07,1.0,0.1,0.5,0.5,0.6790674603174603,79.55,684.09
+Random2_0_75,9327,0,75,12 states,12 symbols,1425,42,5,19,12,660,0,0,30.5068,300,300,15,296,4,285,0.79,0.05,0.99,0.1,0.5,0.5,0.4889423076923077,89.36,1404.26
+Random2_1_75,2970,1,75,12 states,12 symbols,1402,42,8,21,12,617,0,0,19.6364,300,300,3,298,2,297,0.6,0.01,0.99,0.0,0.5,0.5,0.5267857142857143,84.0,1234.0
+Random2_8_75,7526,8,75,12 states,12 symbols,1410,41,7,20,12,497,0,0,22.1301,300,300,33,295,5,267,0.87,0.11,0.98,0.2,0.5,0.5,0.5006218905472637,85.42,1035.42
+Random2_4_75,8332,4,75,12 states,12 symbols,1416,35,9,17,12,341,0,0,19.9695,300,300,27,297,3,273,0.9,0.09,0.99,0.2,0.5,0.5,0.6,79.55,775.0
+Random2_3_75,9989,3,75,12 states,12 symbols,1400,37,3,16,12,350,0,0,15.4468,300,300,114,286,14,186,0.89,0.38,0.95,0.5,0.7,0.7,0.721780303030303,92.5,875.0
+Random2_9_75,3485,9,75,12 states,12 symbols,1400,41,7,21,12,1023,0,0,20.4564,300,300,5,297,3,295,0.62,0.02,0.99,0.0,0.5,0.5,0.4442401960784314,85.42,2131.25
+Random2_2_75,8690,2,75,12 states,12 symbols,1403,34,15,22,12,538,0,0,23.0117,300,300,6,300,0,294,1.0,0.02,1.0,0.0,0.5,0.5,0.544345238095238,69.39,1097.96

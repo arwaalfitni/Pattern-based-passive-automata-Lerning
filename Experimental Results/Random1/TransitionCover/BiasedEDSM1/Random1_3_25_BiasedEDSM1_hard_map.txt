@@ -1,0 +1,68 @@
+Exploration Map
+==============================
+Event: L1/Y
+  Followed by:
+    L2/Y: 24.62%
+    L0/Y: 40.0%
+    L1/Y: 32.31%
+  Not followed by:
+    L1/X
+    L0/X
+    L2/X
+Percentage_of_appearance: 26.1%
+------------------------------
+Event: L2/Y
+  Followed by:
+    L1/Y: 30.77%
+    L0/Y: 35.38%
+    L2/Y: 24.62%
+  Not followed by:
+    L1/X
+    L0/X
+    L2/X
+Percentage_of_appearance: 26.1%
+------------------------------
+Event: L1/X
+  Followed by:
+    L2/X: 25.0%
+    L1/X: 41.67%
+    L0/Y: 33.33%
+    L0/X: 8.33%
+    L2/Y: 16.67%
+    L1/Y: 8.33%
+  Not followed by:
+Percentage_of_appearance: 4.82%
+------------------------------
+Event: L0/Y
+  Followed by:
+    L0/Y: 34.12%
+    L1/Y: 21.18%
+    L2/Y: 36.47%
+  Not followed by:
+    L1/X
+    L0/X
+    L2/X
+Percentage_of_appearance: 34.14%
+------------------------------
+Event: L0/X
+  Followed by:
+    L2/X: 66.67%
+    L0/Y: 22.22%
+    L0/X: 11.11%
+    L1/Y: 33.33%
+  Not followed by:
+    L2/Y
+    L1/X
+Percentage_of_appearance: 3.61%
+------------------------------
+Event: L2/X
+  Followed by:
+    L0/X: 46.15%
+    L2/X: 23.08%
+    L1/X: 46.15%
+    L1/Y: 15.38%
+    L0/Y: 7.69%
+  Not followed by:
+    L2/Y
+Percentage_of_appearance: 5.22%
+------------------------------

@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+Random2_7_18,216,7,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.8649,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_6_18,1871,6,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,2.6807,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_8_18,7526,8,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.8962,96,96,1,96,0,95,1.0,0.01,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_9_18,3485,9,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,2.13,96,96,2,96,0,94,1.0,0.02,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_0_18,9327,0,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.9081,96,96,1,96,0,95,1.0,0.01,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5
+Random2_1_18,2970,1,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,2.0172,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_2_18,8690,2,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.8961,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_3_18,9989,3,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,2.0044,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_5_18,8737,5,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,1.9176,96,96,0,96,0,96,0.0,0.0,0.0,0.0,0.5,0.0,0.2419740437158469,72.5,3807.5
+Random2_4_18,8332,4,18,12 states,12 symbols,274,29,11,22,12,1523,0,0,6.7477,96,96,1,96,0,95,1.0,0.01,1.0,0.0,0.5,0.5,0.2419740437158469,72.5,3807.5

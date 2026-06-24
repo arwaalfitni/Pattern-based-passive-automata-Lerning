@@ -1,0 +1,13 @@
+digraph TextEditor {
+    rankdir=LR;
+    node [fontname="Arial"];
+    "Start" [shape=triangle, isInitial=True];
+    "Editing" [shape=diamond];
+    "Error" [shape=square];
+    "Start" -> "Editing" [label="open/1"];
+    "Start" -> "Error"   [label="edit/0\nexit/0"];
+    "Editing" -> "Editing" [label="edit/1"];
+    "Editing" -> "Start"   [label="exit/0"];
+    "Editing" -> "Error"   [label="open/0"];
+    "Error" -> "Error" [label="open/0\nedit/0\nexit/0"];
+}

@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model (baised_EDSM),number of hard patterns,number of blocked potential-merges by hard patterns,number of soft patterns,number of biased potential-merges by soft patterns,Total time spent in EDSM (seconds),Number of colors used (automata_size),Number of SAT solver calls,Number of variables in the last SAT call,Number of clauses in the last SAT call,SAT result,Total time spent in SAT solver (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge
+TCP_5_150,1923,5,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_4_150,5450,4,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_7_150,5209,7,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_0_150,9654,0,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_1_150,7193,1,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_8_150,6797,8,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_9_150,250,9,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_3_150,8776,3,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_2_150,6887,2,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00
+TCP_6_150,3237,6,150,14 states,28 symbols,,,,,,,,,,,,,,,,,,,,,,,-1,-1,-2,,-2,-2,0.00

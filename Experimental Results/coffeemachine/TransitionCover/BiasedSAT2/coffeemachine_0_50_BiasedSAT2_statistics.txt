@@ -1,0 +1,40 @@
+File: coffeemachine
+Seed: 3681
+Trails: 0
+Number of walks: 50
+Size of reference graph: 6 states
+Alphabet_size: 8 symbols
+
+Size of actual model(APTA): 489
+Correct merges: 12
+Incorrect merges: 0
+Size of learned model (baised_EDSM): 232
+number of hard patterns: 34
+number of blocked potential-merges by hard patterns: 101
+Total time spent in EDSM (seconds): 3.6571
+
+
+DFASAT Statistics:
+Number of colors used (automata_size): 7
+Number of SAT solver calls: 6
+Number of variables in the last SAT call: 2219
+Number of clauses in the last SAT call: 33737
+SAT result: SAT
+Total time spent in SAT solver (seconds): 0.3621
+Total time spent in SAT solver (seconds): 0.3621
+
+
+Evaluation Report:
+number of Positive traces: 200
+number of Negative traces: 200
+True Positive: 200
+True Negative: 198
+False Positive: 2
+False Negative: 0
+Precision: 0.99
+Recall: 1.00
+Specificity: 0.99
+F-measure: 1.00
+Accuracy: 1.00
+BCR: 1.00
+Structural Difference: 0.9583333333333334

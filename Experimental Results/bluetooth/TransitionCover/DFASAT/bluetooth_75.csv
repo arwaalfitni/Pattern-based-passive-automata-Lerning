@@ -1,0 +1,11 @@
+File,Seed,Trails,Number of walks,Size of reference graph,Alphabet_size,Size of actual model(APTA),Correct merges,Incorrect merges,Size of learned model(sicco_EDSM),Total time spent in EDSM (seconds),Number of colors used (automata_size),Number of SAT solver calls,Number of variables in the last SAT call,Number of clauses in the last SAT call,SAT result,Total time spent in SAT solver (seconds),number of Positive traces,number of Negative traces,True Positive,True Negative,False Positive,False Negative,Precision,Recall,Specificity,F-measure,Accuracy,BCR,Structural Difference,ratioOfCorrectMerge,ratioOfRejected2CompletedMerges
+bluetooth_3_75,7492,3,75,15 states,15 symbols,2022,44,101,1009,696.3508,30,28,94047,4813233,TIMEOUT,5623.0528,,,,,,,,-1,-1,-1,,-1,-1,30.34,0
+bluetooth_9_75,2581,9,75,15 states,15 symbols,1993,31,142,994,815.985,30,28,93612,4828994,TIMEOUT,5412.1747,,,,,,,,-1,-1,-1,,-1,-1,17.92,0
+bluetooth_8_75,7258,8,75,15 states,15 symbols,2019,36,120,1009,682.3892,30,28,94047,4831735,TIMEOUT,5484.0652,,,,,,,,-1,-1,-1,,-1,-1,23.08,0
+bluetooth_7_75,8095,7,75,15 states,15 symbols,1995,42,119,994,715.0928,30,28,93612,4808810,TIMEOUT,5414.5924,,,,,,,,-1,-1,-1,,-1,-1,26.09,0
+bluetooth_2_75,8134,2,75,15 states,15 symbols,2005,44,121,999,750.0653,30,28,93757,4825983,TIMEOUT,5409.8168,,,,,,,,-1,-1,-1,,-1,-1,26.67,0
+bluetooth_4_75,8493,4,75,15 states,15 symbols,2019,37,115,1005,591.3707,30,28,93931,4816651,TIMEOUT,5484.6509,,,,,,,,-1,-1,-1,,-1,-1,24.34,0
+bluetooth_1_75,4955,1,75,15 states,15 symbols,2007,22,128,997,649.4924,30,28,93699,4796575,TIMEOUT,5387.3988,,,,,,,,-1,-1,-1,,-1,-1,14.67,0
+bluetooth_5_75,5571,5,75,15 states,15 symbols,1994,49,104,997,728.9476,30,28,93699,4801621,TIMEOUT,5413.3406,,,,,,,,-1,-1,-1,,-1,-1,32.03,0
+bluetooth_0_75,6773,0,75,15 states,15 symbols,2020,53,107,1004,814.4462,30,28,93902,4828018,TIMEOUT,5564.8469,,,,,,,,-1,-1,-1,,-1,-1,33.12,0
+bluetooth_6_75,5064,6,75,15 states,15 symbols,2018,51,124,1008,795.9485,30,28,94018,4861604,TIMEOUT,5416.0046,,,,,,,,-1,-1,-1,,-1,-1,29.14,0

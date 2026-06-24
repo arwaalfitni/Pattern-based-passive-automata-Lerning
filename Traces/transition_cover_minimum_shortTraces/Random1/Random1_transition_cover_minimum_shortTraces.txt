@@ -1,0 +1,10 @@
+__________Learning_Negative Traces_________
+L1/X, L2/X, L2/X, L1/X, L0/X, L0/X, L1/Y, L2/X
+L1/X, L1/X, L0/Y, L0/Y, L1/Y, L2/Y, L1/Y, L0/Y, L2/X
+L0/X, L2/X, L1/Y, L1/Y, L2/Y, L0/Y, L2/Y, L2/X
+L0/X, L0/Y, L2/Y, L0/Y, L2/Y, L1/Y, L1/Y, L2/X
+L2/X, L0/X, L1/Y, L0/Y, L2/Y, L2/Y, L0/Y, L1/X
+L2/X, L2/X, L0/Y, L2/Y, L2/Y, L0/Y, L2/Y, L1/Y, L0/X
+L2/X, L1/X, L2/Y, L2/Y, L1/Y, L1/Y, L1/Y, L0/Y, L2/X
+L2/X, L0/X, L0/Y, L0/Y, L0/Y, L0/Y, L0/Y, L1/Y, L0/Y, L1/X
+L2/X, L0/X, L2/X, L0/Y

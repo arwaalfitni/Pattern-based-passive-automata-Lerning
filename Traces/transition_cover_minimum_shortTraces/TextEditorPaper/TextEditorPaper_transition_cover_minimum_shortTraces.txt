@@ -1,0 +1,8 @@
+__________Learning_Negative Traces_________
+open/1, edit/1, exit/0, open/1, open/0
+open/1, exit/0, edit/0
+open/1, exit/0, exit/0
+open/1, edit/1, open/0, open/0
+exit/0
+open/1, edit/1, open/0, exit/0
+open/1, edit/1, edit/1

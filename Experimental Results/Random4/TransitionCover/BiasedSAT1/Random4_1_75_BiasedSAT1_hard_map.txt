@@ -1,0 +1,106 @@
+Exploration Map
+==============================
+Event: L2/2
+  Followed by:
+    L3/1: 21.15%
+    L1/1: 21.92%
+    L3/2: 0.38%
+    L0/2: 30.0%
+    L2/1: 0.38%
+    L2/2: 25.0%
+  Not followed by:
+    L0/1
+    L1/2
+Percentage_of_appearance: 24.64%
+------------------------------
+Event: L0/2
+  Followed by:
+    L0/1: 0.38%
+    L2/2: 22.52%
+    L1/1: 26.72%
+    L2/1: 0.38%
+    L3/1: 20.99%
+    L0/2: 25.57%
+    L1/2: 0.76%
+  Not followed by:
+    L3/2
+Percentage_of_appearance: 24.83%
+------------------------------
+Event: L0/1
+  Followed by:
+    L2/2: 57.14%
+    L3/1: 42.86%
+    L0/2: 57.14%
+    L1/1: 14.29%
+    L1/2: 14.29%
+    L2/1: 14.29%
+    L3/2: 14.29%
+  Not followed by:
+    L0/1
+Percentage_of_appearance: 0.66%
+------------------------------
+Event: L2/1
+  Followed by:
+    L3/2: 18.18%
+    L2/2: 36.36%
+    L0/1: 9.09%
+    L1/1: 54.55%
+    L0/2: 18.18%
+    L3/1: 18.18%
+    L1/2: 9.09%
+  Not followed by:
+    L2/1
+Percentage_of_appearance: 1.04%
+------------------------------
+Event: L3/2
+  Followed by:
+    L0/2: 50.0%
+    L3/2: 12.5%
+    L2/1: 37.5%
+    L3/1: 12.5%
+    L1/1: 37.5%
+    L2/2: 12.5%
+    L0/1: 12.5%
+  Not followed by:
+    L1/2
+Percentage_of_appearance: 0.76%
+------------------------------
+Event: L1/2
+  Followed by:
+    L0/2: 42.86%
+    L1/1: 14.29%
+    L3/1: 14.29%
+    L2/2: 14.29%
+    L0/1: 14.29%
+    L1/2: 28.57%
+    L3/2: 14.29%
+    L2/1: 14.29%
+  Not followed by:
+Percentage_of_appearance: 0.66%
+------------------------------
+Event: L3/1
+  Followed by:
+    L1/1: 26.45%
+    L0/1: 0.41%
+    L2/1: 0.83%
+    L3/2: 0.41%
+    L0/2: 17.77%
+    L2/2: 26.45%
+    L3/1: 24.38%
+  Not followed by:
+    L1/2
+Percentage_of_appearance: 22.94%
+------------------------------
+Event: L1/1
+  Followed by:
+    L2/1: 0.39%
+    L0/2: 23.64%
+    L1/1: 21.71%
+    L3/1: 25.19%
+    L2/2: 24.03%
+    L3/2: 0.39%
+    L0/1: 0.39%
+  Not followed by:
+    L1/2
+Percentage_of_appearance: 24.45%
+------------------------------

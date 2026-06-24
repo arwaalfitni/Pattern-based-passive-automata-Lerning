@@ -1,0 +1,206 @@
+Exploration Map
+==============================
+Event: L2/1
+  Followed by:
+    L3/3: 20.47%
+    L1/3: 25.98%
+    L0/3: 22.83%
+    L2/1: 21.26%
+    L1/2: 1.57%
+    L0/1: 0.79%
+    L2/3: 0.79%
+  Not followed by:
+    L0/2
+    L1/1
+    L2/2
+    L3/1
+    L3/2
+Percentage_of_appearance: 22.64%
+------------------------------
+Event: L0/1
+  Followed by:
+    L3/2: 28.57%
+    L1/1: 14.29%
+    L0/1: 14.29%
+    L2/3: 42.86%
+    L1/2: 28.57%
+    L0/3: 14.29%
+  Not followed by:
+    L2/1
+    L0/2
+    L2/2
+    L1/3
+    L3/3
+    L3/1
+Percentage_of_appearance: 1.25%
+------------------------------
+Event: L0/3
+  Followed by:
+    L0/3: 27.74%
+    L2/1: 19.71%
+    L0/1: 2.19%
+    L2/3: 0.73%
+    L1/3: 20.44%
+    L3/1: 0.73%
+    L1/1: 1.46%
+    L3/3: 21.9%
+    L2/2: 0.73%
+    L3/2: 0.73%
+  Not followed by:
+    L1/2
+    L0/2
+Percentage_of_appearance: 24.42%
+------------------------------
+Event: L1/2
+  Followed by:
+    L2/2: 10.0%
+    L3/2: 10.0%
+    L0/3: 40.0%
+    L1/3: 20.0%
+    L1/1: 20.0%
+    L0/1: 10.0%
+    L3/3: 30.0%
+    L2/3: 10.0%
+  Not followed by:
+    L2/1
+    L1/2
+    L0/2
+    L3/1
+Percentage_of_appearance: 1.78%
+------------------------------
+Event: L0/2
+  Followed by:
+    L2/1: 100.0%
+  Not followed by:
+    L0/1
+    L0/3
+    L1/2
+    L0/2
+    L1/1
+    L2/2
+    L1/3
+    L3/3
+    L3/1
+    L3/2
+    L2/3
+Percentage_of_appearance: 0.18%
+------------------------------
+Event: L1/1
+  Followed by:
+    L0/3: 42.86%
+    L3/1: 28.57%
+    L1/2: 14.29%
+    L2/2: 28.57%
+    L2/1: 42.86%
+    L1/3: 14.29%
+  Not followed by:
+    L0/1
+    L0/2
+    L1/1
+    L3/3
+    L3/2
+    L2/3
+Percentage_of_appearance: 1.25%
+------------------------------
+Event: L2/2
+  Followed by:
+    L1/3: 50.0%
+    L0/3: 25.0%
+    L2/1: 25.0%
+  Not followed by:
+    L0/1
+    L1/2
+    L0/2
+    L1/1
+    L2/2
+    L3/3
+    L3/1
+    L3/2
+    L2/3
+Percentage_of_appearance: 0.71%
+------------------------------
+Event: L1/3
+  Followed by:
+    L2/1: 27.27%
+    L0/3: 17.36%
+    L3/3: 23.97%
+    L1/3: 25.62%
+  Not followed by:
+    L0/1
+    L1/2
+    L0/2
+    L1/1
+    L2/2
+    L3/1
+    L3/2
+    L2/3
+Percentage_of_appearance: 21.57%
+------------------------------
+Event: L3/3
+  Followed by:
+    L0/3: 28.0%
+    L2/1: 22.4%
+    L2/3: 0.8%
+    L3/3: 26.4%
+    L1/2: 0.8%
+    L1/3: 16.8%
+  Not followed by:
+    L0/1
+    L0/2
+    L1/1
+    L2/2
+    L3/1
+    L3/2
+Percentage_of_appearance: 22.28%
+------------------------------
+Event: L3/1
+  Followed by:
+    L1/3: 33.33%
+    L1/2: 16.67%
+    L3/1: 16.67%
+    L2/1: 33.33%
+  Not followed by:
+    L0/1
+    L0/3
+    L0/2
+    L1/1
+    L2/2
+    L3/3
+    L3/2
+    L2/3
+Percentage_of_appearance: 1.07%
+------------------------------
+Event: L3/2
+  Followed by:
+    L1/2: 16.67%
+    L0/3: 50.0%
+    L3/2: 16.67%
+    L2/3: 16.67%
+    L2/1: 16.67%
+    L1/3: 16.67%
+    L3/3: 33.33%
+  Not followed by:
+    L0/1
+    L0/2
+    L1/1
+    L2/2
+    L3/1
+Percentage_of_appearance: 1.07%
+------------------------------
+Event: L2/3
+  Followed by:
+    L0/3: 20.0%
+    L1/2: 20.0%
+    L3/3: 20.0%
+    L2/3: 10.0%
+    L2/1: 40.0%
+    L3/1: 20.0%
+    L1/1: 10.0%
+    L0/2: 10.0%
+  Not followed by:
+    L0/1
+    L2/2
+    L1/3
+    L3/2
+Percentage_of_appearance: 1.78%
+------------------------------
