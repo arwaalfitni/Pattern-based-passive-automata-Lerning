@@ -10,6 +10,7 @@ from Learners.Sicco_Learner import Sicco_Learner
 
 
 class MyTestCase(unittest.TestCase):
+    
     def setUp(self):
         self.R1 = State('R1', isInitial=True); self.R2 = State('R2'); self.R3 = State('R3')
         self.B1 = State('B1'); self.B2 = State('B2')
@@ -68,5 +69,7 @@ class MyTestCase(unittest.TestCase):
     def test_mergeR3_W1(self):
         result = self.sicco_learner.adding_new_transition(self.R3, self.W1)
         self.assertEqual(result, True) # R3+W1 = new info added ==> can't be merged by sicco;
+
+
 if __name__ == '__main__':
     unittest.main()

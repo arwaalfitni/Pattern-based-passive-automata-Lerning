@@ -1,0 +1,23 @@
+[project]
+name = "pattern-based-passive-automata-learning"
+version = "0.1.0"
+description = "Passive automata learning utilities and experiments for pattern-based inference."
+readme = "README.md"
+authors = [
+  { name = "Unknown" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.12"
+dependencies = [
+    "pydot>=4.0.1",
+    "pyparsing>=3.3.2",
+]
+
+[project.urls]
+"Source" = "https://github.com/arwaalfitni/Pattern-based-passive-automata-Lerning"
+
+[tool.setuptools]
+packages = ["*"]
+
+[tool.setuptools.package-data]
+"" = ["*.py"]

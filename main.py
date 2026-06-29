@@ -1,3 +1,20 @@
+"""
+This script is the main entry point for running the learning experiments. 
+It takes command-line arguments to specify the seed value, learning strategy, input file name, number of trails, number of negative walks for inferring the model, and data coverage type.
+
+The script performs the following steps:
+1. Parses command-line arguments.
+2. Reads the reference graph from a DOT file.
+3. Generates training and testing walks based on the specified coverage type.
+4. Builds an APTA (Augmented Prefix Tree Acceptor) from the training walks.
+5. Depending on the specified learning strategy, it runs the appropriate learning algorithm (e.g., classical EDSM, Biased EDSM, SAT-based learning).
+6. Evaluates the learned graph against the test walks and writes the evaluation report to a statistics file.
+
+Run example:
+uv run run.py 1185 DFASAT TextEditor 0 5 TransitionCover
+
+"""
+
 import argparse
 import os
 
@@ -5,7 +22,7 @@ import time
 
 from Form_converter.GraphObj_DotFile_converter import dot_to_Graph, graph_to_dot
 from Learners.Baised_Learner_check_without_merge_1notfollow1 import Baised_Learner1
-from Learners.Baised_Learner_check_without_Merge_2notfollowing1 import Baised_Learner2
+# from Learners.Baised_Learner_check_without_Merge_2notfollowing1 import Baised_Learner2
 from Learners.Biased_Sicco_EDSM_Learner import BiasedSicco_Learner
 from Learners.Classical_Learner import Learner
 from Learners.DFASAT.SAT import SAT
@@ -40,12 +57,12 @@ def main():
     coverage = args.coverage
 
     file_path = f'{systemName}/{coverage}/{learning_strategy}/{systemName}_{trails}_{learning_walks_size}_{learning_strategy}'
-    statistic_file_path = f'{file_path}_statistics.txt'
+    statistic_file_path = f'outputs/{file_path}_statistics.txt'
+
 
     # Create directories if they don't exist
-    os.makedirs(f'{systemName}', exist_ok=True)
-    os.makedirs(f'{systemName}/{coverage}', exist_ok=True)
-    os.makedirs(f'{systemName}/{coverage}/{learning_strategy}', exist_ok=True)
+    dir = os.path.dirname(statistic_file_path)
+    os.makedirs(dir, exist_ok=True)
 
     # Read Reference graph
     ref_graph = dot_to_Graph(f'reference_automata/{systemName}_reference.dot')
@@ -87,7 +104,7 @@ def main():
     # Delete all Rejected states
     apta.G.delete_rejected_states()
 
-    write_to_file_in_new_line('raw-data.txt',f'System Name:{systemName}\nNumber of Traces:{len(training_neg_walks)}\nNumber of states: {len(apta.G.get_all_states())}\nNumber of edges: {len(apta.G.get_all_transitions())}')
+    write_to_file_in_new_line('outputs/raw-data.txt',f'System Name:{systemName}\nNumber of Traces:{len(training_neg_walks)}\nNumber of states: {len(apta.G.get_all_states())}\nNumber of edges: {len(apta.G.get_all_transitions())}')
     # RUN classical EDSM
     # total_edsm_time = 0.0
     # start_time = time.time()

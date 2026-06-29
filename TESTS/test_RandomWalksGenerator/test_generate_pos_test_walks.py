@@ -8,6 +8,7 @@ class MyTestCase(unittest.TestCase):
     def setUp(self):
         self.ref_graph = dot_to_Graph(f'reference_automata/coffeemachine_reference.dot')
         self.ref_graph.input_alphabet.sort()
+        
     def test_generated_walks_are_pos(self):
         # the last transition in each walk should lead to non-sink state
         sink_state = self.ref_graph.find_sink_state()
