@@ -22,6 +22,7 @@ class Transition:
             return (self.input_key == other.input_key and self.output_key == other.output_key
                     and self.from_state == other.from_state and self.to_state == other.to_state)
         return False
+    
     def __hash__(self):
         return hash((self.from_state, self.to_state, self.input_key, self.output_key))
 
