@@ -18,8 +18,8 @@
 #     unittest.main()
 
 
-from Graph import Graph
-from State import State
+from Basic_objects.Graph import Graph
+from Basic_objects.State import State
 
 
 def test_addStateToEmptyGraph(graph):
