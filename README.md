@@ -56,56 +56,29 @@ The output statistics file is written to the outputs folder. For example, the pr
 
 The command-line arguments are:
 
-- seed: used for random functions.
-- Learning algorithm: one of the supported learning strategies below.
-- system-name: the target benchmark system.
-- trial-number: used to distinguish between different trials.
-- learning_walks_size: the number of traces used for training.
-- coverage: the trace coverage strategy.
-
-### Supported learning algorithms
-
-The following learning algorithms are supported:
-
-- BiasedEDSM1: PAT-EDSM
-- BiasedSAT1: PAT-DFASAT
-- DFASAT
-- classicalEDSM
-- BiasedSATPAT1: PAT-DFASAT with patterns added to the SAT solver
-- BiasedSiccoSAT: DFASAT with patterns added to the EDSM phase
-- BiasedSiccoSATPAT: DFASAT with patterns added to the EDSM phase and to the SAT solver
-
-### Supported coverage options
-
-The coverage argument must be one of the following:
-
-- NoCover
-- StateCover
-- TransitionCover
-
-### Supported systems
-
-The current available systems are:
-
-- bluetooth
-- TCP
-- openSSL
-- coffeemachine
-- Random1
-- Random2
-- Random3
-- Random4
-- Random5
-- Random6
+| Parameter name       | Allowed values | Explanation |
+|----------------------|----------------|-------------|
+| seed                 | Any integer value | Used for random functions |
+| Learning algorithm   | `BiasedEDSM1`, `BiasedSAT1`, `DFASAT`, `classicalEDSM`, `BiasedSATPAT1`, `BiasedSiccoSAT`, `BiasedSiccoSATPAT` | Selects the learning strategy |
+| system-name          | `bluetooth`, `TCP`, `openSSL`, `coffeemachine`, `Random1`, `Random2`, `Random3`, `Random4`, `Random5`, `Random6` | Target benchmark system |
+| trial-number         | Any integer value | Distinguishes between different trials |
+| learning_walks_size  | Any integer value | Number of traces used for training |
+| coverage             | `NoCover`, `StateCover`, `TransitionCover` | Trace coverage strategy |
 
 If you want to add another system, place its reference automaton in the `reference_automata` folder as a DOT file and mark the initial state using `isInitial=True`.
 
-## 4. Running the Tests
+## 4. Implementation and Testing
+
+The project is driven by `main.py`, which parses command-line arguments, loads a reference automaton from `reference_automata`, generates training and test traces, and builds an augmented prefix tree acceptor (APTA). Learning strategies are implemented in the `Learners` package, including classical EDSM, pattern-based EDSM, and SAT-based DFASAT, while evaluation logic in `evaluation.py` measures inference quality using precision, recall, accuracy, and balanced classification rate.
+
+Testing is handled with Python `unittest` and organized under `tests/`. The suite covers core components such as graph operations, trace generation, pattern exploration, and learner compatibility checks, so the implementation can be validated by running the repository-wide test discovery command.
+
+## 5. Running the Tests
 
 To run the unit tests in this repository, use:
 
 ```bash
-uv run -m unittest discover -v -s TESTS -p "*.py"
+uv run -m unittest discover -v -s ./tests -p "*.py"
 ```
 
 You can also use the provided make target:
@@ -114,7 +87,7 @@ You can also use the provided make target:
 make test
 ```
 
-## 5. Makefile Commands
+## 6. Makefile Commands
 
 The repository includes a Makefile with the following useful commands:
 
@@ -132,7 +105,7 @@ Example:
 make run 8965 DFASAT Random1 0 0 TransitionCover
 ```
 
-## 6. Acknowledgements
+## 7. Acknowledgements
 
 This work was carried out by:
 
